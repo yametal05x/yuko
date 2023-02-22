@@ -1,8 +1,6 @@
 import requests
 import json, sys, time
 
-
-
 print("---Birkaç hızlı hareket  yavaşlatır gençliğini---")
 print("")
 eposta = input("Eposta gir : ")
@@ -76,4 +74,9 @@ except requests.exceptions.Timeout:
 print("")
 try:
 	dark1=requests.get("https://iweb.yesim.app/v1/show_my_qrs?web_key="+sonuc2+"&lang=en", timeout=5)
-	sonuc5=dark1.json()
+	sonuc5=dark1.json()["Qrs"]
+	print("KareKod Epostaya Gönderildi")
+except:
+	print("KareKod Oluşturulamadı")
+	
+havali("Bol Sömürmeler")
