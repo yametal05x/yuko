@@ -1,6 +1,8 @@
 import requests
 import json, sys, time
 
+
+
 print("---Birkaç hızlı hareket  yavaşlatır gençliğini---")
 print("")
 eposta = input("Eposta gir : ")
