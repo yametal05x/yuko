@@ -2,14 +2,8 @@ import requests
 import json, sys, time
 
 
-print("  _____             _      ______                ")
-print(" |  __ \           | |    |  ____|               ")
-print(" | |  | | __ _ _ __| | __ | |__   _ __  ______ _ ")
-print(" | |  | |/ _` | '__| |/ / |  __| | '_ \|_  / _` |")
-print(" | |__| | (_| | |  |   <  | |____| | | |/ / (_| |")
-print(" |_____/ \__,_|_|  |_|\_\ |______|_| |_/___\__,_|")
-print("                                   TG: @dark_enza")
-print("---Birkaç hızlı hareket  yavaşlatır gençliğini---")
+
+print("--- Yüksel E-sim Alma---")
 print("")
 eposta = input("Eposta gir : ")
 def havali(parametre, time_sleep = 0.04):
