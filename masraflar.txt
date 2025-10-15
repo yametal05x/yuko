@@ -1,3 +1,4 @@
+Tipi	Masraf Adı	Masraf Kodu
 Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.03.002
 Masraf	K-400 Hidrolik Pres Revizyonu	253.01.03.24.002
 Masraf	Adıyaman Cnc Makina Revizyonu	253.01.03.24.003
