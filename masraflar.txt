@@ -1,0 +1,697 @@
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.03.002
+Masraf	K-400 Hidrolik Pres Revizyonu	253.01.03.24.002
+Masraf	Adıyaman Cnc Makina Revizyonu	253.01.03.24.003
+Masraf	Perçin Makinesi	253.01.01.16.002
+Masraf	Esenyurt Fab.Yangın Söndürme Sistemi	264.01.01.20.015
+Masraf	Hüseyin ÖZGER Şahsi Fatura Ödemeleri	770.01.01.03.015
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.09.002
+Masraf	Tasarım İtiraz Tencere 2019/08840 	260.2020-02-027
+Masraf	Taşıt ALIMI	254.01.01.19.111
+Masraf	İhracat  Giderleri  	760.01.01.04.015
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.02.001
+Masraf	DİREKT İLK MAD.MALZ.GİD.YANSITMA HS.	711.01.01.01
+Masraf	Ramazan Özger Giderleri Hs.	770.01.01.99.099
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.02.004
+Masraf	Zımpara - Direkt İşçilik Giderleri Yansı	721.01.01.01.003
+Masraf	Yazılım Kiralam Giderleri Hs.	770.01.01.03.022
+Masraf	Adıyaman Yeni Fırın Yapımı (Adıyaman)	258.01.01.02.002
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.07.004
+Masraf	Diğer Çeşitli Giderler	760.01.01.04.25
+Masraf	Yurtdışı Konaklama ve Seyehat Gid.Hs.	760.01.01.04.004
+Masraf	150W LED PROJEKTÖR	GDR-LMCP150W
+Masraf	Taşıt Yakıt Giderleri Hs.	760.01.01.04.001
+Masraf	Taşıt Tamir, Bakım, Onarım, Muayene Gid.	760.01.01.04.002
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.08.005
+Masraf	Adıyaman Çardak Kamelya Yapımı	258.01.01.01.003
+Masraf	Ortaklar Emlak Vergileri	770.01.01.05.095
+Masraf	Adıyaman Fabrika Elektrik Panosu	253.01.03.20.001
+Masraf	Beyanname Damga Vergisi Hs.	770.01.01.05.006
+Masraf	Taşıt Yakıt Giderleri Hs.	730.01.01.04.003
+Masraf	Adıyaman Çakma Makinası ( Revizyon )	253.01.03.21.122
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.01.002
+Masraf	Adıyaman Polisaj Makina Yapımı	258.01.01.02.006
+Masraf	PZR.SAT.VE DAĞ.GİD.YANSITMA HS	761.01
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.05.001
+Masraf	Kalıp Giderleri	258.01.01.03.010
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.01.003
+Masraf	Numune ve Tek Kullanımlık Ürünler	730.01.01.03.009
+Masraf	GEN.YÖN.GİD.YANSITMA HESABI	771
+Masraf	Sağlık Giderleri Hs.	770.01.01.99.004
+Masraf	Burs Giderleri	770.01.01.04.017
+Masraf	Üretim-Depo Arası Ürün Taşıma Asansörü	264.01.01.20.001
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	760.01.01.01.002
+Masraf	GENEL ÜRETİM GİDERLERİ	730.01
+Masraf	Çeşitli Giderler Yansıtma Hs	761.01.01.01.004
+Masraf	GENEL ÜRETİM GİDERLERİ	73
+Masraf	Gazete, Dergi ve Abonman Gid.Hs.	770.01.01.04.005
+Masraf	P.OFİSİ PROCUT LD 17.5 KG BDN	A01
+Masraf	Kompresör Tesisatı Revizyon	253.01.03.16.060
+Masraf	Diğer Finans Giderleri Hs.	780.01.02.01.009
+Masraf	İşçilik Giderleri Yansıtma Hs	761.01.01.01.001
+Masraf	Tasarım İtiraz 2017/02126	260.2020-02-036
+Masraf	Tasarım İtiraz 2019/01455	260.2020-02-037
+Masraf	Doğalgaz Basınç Düşürme Ölçüm İstasyonu	264.01.01.16.003
+Masraf	Adıyaman Fabrika Tamir,Tadilat Onar (Dep	258.01.01.01.007
+Masraf	Tasarım Yenileme TPE 2018/07503	260.2023-02-070
+Masraf	Sabit Kıymet Birleşim Hs.	253.01.01.17.299
+Masraf	İşçi Kıdem Tazminatı Hs.	730.01.01.01.006
+Masraf	Dışarıdan Sağlanan Diğ.Fayda ve Hiz.Hs.	730.01.01.03.008
+Masraf	8 Kafa Polisaj Makinesi Revizyonu	253.01.03.21.006
+Masraf	Adıyaman Fabrika Bahçe Düzen	264.01.01.22.001
+Masraf	Diğer Finans Giderleri Hs.	780.01.01.01.009
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.04.007
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.05.005
+Masraf	O.M.S. 2016/69239	260.01.01.04.005
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	730.01.01.01.002
+Masraf	DİREKT İŞÇİLİK GİDERLERİ YANSITMA HS.	721.01.01
+Masraf	Şirket Giderleri Balkar	770.01.01.05.100
+Masraf	Döküm Mark. (Bu 500 Doğalg. Dök. Ocak e)	253.01.03.22.113
+Masraf	İşçilik Giderleri Yansıtma Hs	771.01.01.01.001
+Masraf	Reeskont Kredi Faiz Giderleri Hs.	780.01.03.01.011
+Masraf	2 Kafa Polisaj Makina Revizyon	253.01.01.18.001
+Masraf	GENEL ÜRETİM GİD.YANSITMA HS.	731.01
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.05.002
+Masraf	Site İnşaat - Fethi Özger	252.01.01.01.001
+Masraf	Müşteriler Tazminat Giderleri	730.01.01.04.022
+Masraf	Komisyon ve Prim Giderleri Hs.	760.01.01.04.007
+Masraf	K.Geçici Vergisi Hs.	770.01.01.05.020
+Masraf	İşçi S.S.K. İşveren His.Hs.	730.01.01.01.004
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.08.001
+Masraf	4 Kafa Polisaj Makinesi Revizyon	253.01.03.24.009
+Masraf	2 Kafa Polisaj Makinesi Revizyon	253.01.03.24.010
+Masraf	Sıcak Su Tesisatı (Adıyaman Fabrika)	253.01.01.19.001
+Masraf	DİREKT İLK MAD.MALZ.GİD.YANSITMA HS.	711.01
+Masraf	İstanbul Showrom Yapımı - 2023	258.01.01.01.009
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.06.006
+Masraf	Faturası Gelmeyen Gider Kalemleri	689.01.01.01.008
+Masraf	Rotatif Kredi Faiz Giderleri Hs.	780.01.01.01.002
+Masraf	Teminat Mektubu Komisyon Giderleri Hs.	780.01.03.01.004
+Masraf	Fab.Tes.Mak.D.Baş Tamir,Bak.Onar.Gid.Hs.	258.01.01.03.003
+Masraf	Kek Kalıbı	260.2020-02-044
+Masraf	Teflon Bölümü Elektrik Panosu Yapımı	253.01.03.16.063
+Masraf	GENEL ÜRETİM GİD.YANSITMA HES.	731
+Masraf	Kalıp Yapımı (İmalat)	253.01.01.19.110
+Masraf	TORNA BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.08
+Masraf	Heran Enerji (Güneş Enerjisi Sistemi)	253.2024-028 1
+Masraf	Heran Enerji (Güneş Enerjisi Sistemi)	253.2024-028
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	730.01.01.01.005
+Masraf	Amortisman ve Tükenme Payları Yansıtma H	771.01.01.01.006
+Masraf	Reeskont Kredi Faiz Giderleri Hs.	780.01.01.01.011
+Masraf	Aksesuar - Direkt İşçilik Giderleri Yans	721.01.01.01.007
+Masraf	Taban Torna Makinesi	253.01.03.25.006
+Masraf	Mağaza Bakım Onarım Giderleri	760.01.01.04.017
+Masraf	 Çardak Kamelya Yapımı Oms İstanbul	264.01.01.19.017
+Masraf	Spot Kredi Faiz Giderleri Hs.	780.01.01.01.003
+Masraf	Tasarım Yenileme TPE 2016/07459	260.2020-02-065
+Masraf	Yönetim - Finans Ofis Tadilat İşleri	264.01.01.17.002
+Masraf	DİREKT İŞÇİLİK GİDERLERİ	720.01
+Masraf	Sigorta Giderleri Hs.	770.01.01.03.011
+Masraf	O.M.S. İNTER	260.01.01.01.003
+Masraf	o.m.s KITCHENSTAR	260.01.01.01.004
+Masraf	MADRID	260.01.01.01.005
+Masraf	Yurtiçi Konaklama ve Seyahat Gid.Hs.	770.01.01.04.020
+Masraf	Punta - Direkt İşçilik Giderleri Yansıtm	721.01.01.01.004
+Masraf	Tunç Makina (120 Ton C Tipi Hav.Eksantri	253.01.03.22.118
+Masraf	Fabrika Bahçe Duvar Tadilatları	730.01.01.04.901
+Masraf	İndirilmeyen KDV	689.01.01.01.003
+Masraf	Haberleşme Giderleri Hs.	770.01.01.03.001
+Masraf	Spot Kredi Faiz Giderleri Hs.	780.01.02.01.003
+Masraf	Dışardan Sağ.Fayda ve Hizmetler Yansıtma	771.01.01.01.003
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.03.004
+Masraf	İmalat - (Sprey Makinası Yapımı)	253.01.03.20.002
+Masraf	İstanbul Proje Kapsamı	253.01.03.23.002
+Masraf	İŞÇİ ÜCRET VE GİDERLERİ	760.01.01.01
+Masraf	Banka Giderleri Hs.	770.01.01.04.014
+Masraf	Taksit Kredi Faiz Giderleri Hs.	780.01.02.01.001
+Masraf	Marka Başv.(O.M.S. Mtf.Farkı Üreten)	260.2021-04-004
+Masraf	Teflon Bölümü Çekme Kat Yapımı	264.01.01.19.013
+Masraf	Dışarıdan Sağlanan Diğ.Fayda ve Hiz.Hs.	760.01.01.03.013
+Masraf	Ödenen Tazminatlar	770.01.01.05.015
+Masraf	Alan Vergisi	770.01.01.05.019
+Masraf	Teflon Bölümü Elektrik Panosu Yapımı	253.01.03.20.064
+Masraf	Şirket Gideri  OMS Elektrikli Mağz  Ayd	770.01.01.05.101
+Masraf	Adıyaman İdari Bana Yapımı 2022	264.01.01.22.002
+Masraf	Teminat Mektubu Komisyon Giderleri Hs.	770.01.02.07.004
+Masraf	Banka Hizmet Masrafları	770.01.02.07.006
+Masraf	Teminat Mektubu Komisyon Giderleri Hs.	770.01.03.07.004
+Masraf	Taksit Kredi Faiz Giderleri Hs.	770.01.01.07.001
+Masraf	Teminat Mektubu Komisyon Giderleri Hs.	770.01.01.07.004
+Masraf	Banka Hizmet Masrafları	770.01.01.07.006
+Masraf	P.O.S. Komisyon Giderleri Hs.	770.01.01.07.007
+Masraf	Çek Tahsilat Ücretleri Hs.	770.01.01.07.010
+Masraf	Diğer Finans Giderleri Hs.	770.01.02.07.009
+Masraf	Banka Hizmet Masrafları	770.01.03.07.006
+Masraf	FİNANSMAN GİDERLERİ (Finan. Kısıt.Harici	770.01.01.07
+Masraf	FİNANSMAN GİDER.USD (Finan. Kısıt.Harici	770.01.02.07
+Masraf	FİNANSMAN GİDER.EUR (Finan. Kısıt.Harici	770.01.03.07
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.04.003
+Masraf	Kırtasiye Ve Matbaa Giderleri	770.01.01.04.008
+Masraf	Kırtasiye Ve Matbaa Giderleri	760.01.01.04.089
+Masraf	Amortisman ve Tükenme Payı Hs.	770.01.01.06.001
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.09.001
+Masraf	Fuar Giderleri Hs.	760.01.01.04.006
+Masraf	Showroom,Toplantı ve İhracat Odası	264.01.01.19.016
+Masraf	Bağcılar Mağaza Tadilat İşleri	264.01.01.16.005
+Masraf	Matrah Arttırımı 5/1-a ve 5/1-c 	770.01.01.05.013
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	760.01.01.01.005
+Masraf	Makine Kira Geliri Yans.Ener 	730.01.01.04.900
+Masraf	Su Giderleri Hs.	730.01.01.03.002
+Masraf	Kredi Komisyon Giderleri Hs.	780.01.03.01.005
+Masraf	Müşteri Ciro Primleri	612.01.99.02.003
+Masraf	Siklon Filtre (Havalandrma Sistemi)	258.01.01.02.001
+Masraf	Kumlama Makinesi	253.01.01.19.002
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	730.01.01.01.003
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.07.003
+Masraf	Adıyaman Fabrika Yönetim Binası	258.01.01.02.031
+Masraf	Fabrika Küçük Demirbaş Giderleri Hs.	730.01.01.04.007
+Masraf	Fabrika Bina Su Kuyu Sondaj İşleri (Adıy	258.01.01.02.024
+Masraf	Fabrika Peyzaj Bahçe Gid.	730.01.01.04.025
+Masraf	O.M.S. (2009/41196)	260.01.01.01.001
+Masraf	O.M.S. Collection (2009/50146)	260.01.01.01.002
+Masraf	İdari Bina Lavabo Tadilatları	264.01.01.01.011
+Masraf	Noter Giderleri Hs.	770.01.01.04.013
+Masraf	Reeskont Kredi Faiz Giderleri Hs.	780.01.02.01.011
+Masraf	Kulp (2014/04648)	260.01.01.02.003
+Masraf	İmalat Sarf Malzeme Giderleri	730.01.01.04.021
+Masraf	DİREKT İŞÇİLİK GİD.YANSIT.HES.	721
+Masraf	Jeneratör Revizyon	253.01.03.19.006
+Masraf	Yeni CNC Makinası ve Aletleri (ist mak)	253.01.03.19.005
+Masraf	Yüksel Elektrik (Adıy.Elektrik Panosu)	253.01.03.21.112
+Masraf	Alttan Sıvama Pres Makinası	253.01.03.21.123
+Masraf	İmalat Kalıp Rafı	253.01.03.21.124
+Masraf	Adıyaman Arıtma Ünitesi	253.01.03.21.125
+Masraf	Adıyaman Fabrika 3.Blok - PVC	264.01.01.21.002
+Masraf	İmalat- Perçin Makinası Yapımı	253.01.03.22.119
+Masraf	Yıkama Tüneli İmalat (2023)	258.01.01.03.011
+Masraf	Server, Güç Kaynakları, Ups, Bakım	770.01.01.04.100
+Masraf	Lazer Kesim Makinesi	253.01.03.21.117
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.03.005
+Masraf	Motorlu Taşıt Vergisi Hs.	770.01.01.05.004
+Masraf	Bozuk Mal Bedelleri	612.01.99.02.002
+Masraf	Eston Yapı	252.01.01.01.004
+Masraf	Personel SSK İşsizlik	770.01.01.05.094
+Masraf	Demirbaş Donanım Giderleri	750.01.01.03.010
+Masraf	Kovan Kesme Makinası	258.01.01.03.018
+Masraf	2 Kafa İç Zımpara Makina Revizyon	253.01.03.21.120
+Masraf	Adıyaman Yeni Yıkama Tesisi 2021	253.01.03.21.121
+Masraf	Otoyol ve Park Giderleri	760.01.01.04.010
+Masraf	Fabrika Bahçe Duvar Tadilatı	264.01.01.22.003
+Masraf	Ortaklar Bağkur Ödemeleri	770.01.01.05.096
+Masraf	Tasarım Yenileme TPE 2015/02844	260.2020-02-038
+Masraf	Tasarım Yenileme TPE 2012/01609	260.2020-02-039
+Masraf	Tasarım Yenileme TPE 2012/02080	260.2020-02-040
+Masraf	B.Düzü Eston Yapı Deniz İst 2 Daire	252.01.01.01.006
+Masraf	İşçi Gelir Vergisi (Muhtasar)	770.01.01.01.010
+Masraf	İmalat - (Sprey Makinası-Fırını Yapımı)	253.01.03.20.067
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.06.005
+Masraf	DİREKT İŞÇİLİK GİDERLERİ	720
+Masraf	Kıraç İşyeri İnşaatı	252.01.01.01.003
+Masraf	MERKEZ PAZARLAMA SATIŞ VE DAĞITIM GİD.	760.01
+Masraf	Semaver 2016/03907	260.2020-02-054
+Masraf	Tencere 2016/04043	260.2020-02-055
+Masraf	İaşe,Yeme-İçme,Sunum ve Servis Gid. Hs.	730.01.01.04.001
+Masraf	Adıyaman Yapılmakta Olan Fabrika 3.Blok	258.01.01.01.005
+Masraf	Organize Sanayi Bölgesi Aidat Giderleri	730.01.01.04.008
+Masraf	AMORTİSMAN VE TÜKENME PAYLARI	770.01.01.06
+Masraf	Vergi, Resim ve Harçlar	770.01.01.05.012
+Masraf	Kira Giderleri Hs.	730.01.01.04.016
+Masraf	Temsil ve Ağırlama Giderleri Hs.	770.01.01.03.007
+Masraf	Büro Donanım Araç ve Gereç.Gid.Hs.	760.01.01.04.009
+Masraf	Yeni Kimyasal Arıtma Tesi(Teflon Bölümü)	253.01.01.16.006
+Masraf	Değersiz Alacaklar Gider Kaydı	770.01.01.04.075
+Masraf	Adıyaman Fab.3. Bina (Genişletme)	258.01.01.02.028
+Masraf	Teflon Bölümü Yeni Fırın	253.01.01.15.004
+Masraf	Kur Farkları (Cari Hesaplar)	646.01.01.01.003
+Masraf	Sap Delme Makinası	258.01.01.03.014
+Masraf	Kesme Kalıbı	258.01.01.03.015
+Masraf	SERAMİK BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.09
+Masraf	GENEL ÜRETİM GİD.YANSITMA HS.	731.01.01
+Masraf	AKSESUAR BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.07
+Masraf	Trafik Para Cezaları	770.01.01.05.009
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.09.006
+Masraf	Mahkeme, Dava, Yargı Harçları	770.01.01.05.002
+Masraf	Kredi Komisyon Giderleri Hs.	780.01.01.01.005
+Masraf	Tasarım Yenileme TPE 2016/08835	260.2020-02-042
+Masraf	Kapsül Kesme Makinesi	253.01.01.16.001
+Masraf	Cezve 2021/002745	260.2020-02-058
+Masraf	Tencere 2021/2742	260.2020-02-059
+Masraf	Tencere Desen 2021/002739	260.2020-02-060
+Masraf	İaşe,Yeme-İçme,Sunum ve Servis Gid. Hs.	770.01.01.04.007
+Masraf	GENEL YÖNETİM GİD.YANSITMA HS.	771.01.01.01
+Masraf	Sayım Farkı Giderleri	689.01.01.01.006
+Masraf	Taşıt Alım KKEG	689.01.01.01.015
+Masraf	Matrah Arttırımı 5/1-a ve 5/1-c 	689.01.01.01.017
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.08.007
+Masraf	Müşteri Ciro Prim İadeleri	612.01.99.02.004
+Masraf	E-Ticaret Busineess ve Raporlama 	260.01.01.01.008
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.08.003
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.07.007
+Masraf	İşçi Ücret Giderleri Hs.	760.01.01.01.001
+Masraf	İthalat Nakliye ve Gümrükleme Gid.Hs.	730.01.01.04.015
+Masraf	Geri Kazanım Katılma Payı	770.01.01.05.022
+Masraf	Ambalajlama Giderleri	730.01.01.04.019
+Masraf	FİNANSMAN GİDERLERİ EUR	780.01.03
+Masraf	Finansman Giderleri Yansıtma Hs	781.01.01.01.001
+Masraf	Adıyaman (Yıkama Tüneli Yapımı) 2020	258.01.01.02.016
+Masraf	İmalat - (Sprey Hattı Makinası Yapımı)	253.01.03.21.126
+Masraf	Çardak Kamelya Yapımı İstanbul-2024	264.01.01.24.001
+Masraf	Fly V16 Hızlı Satış Plus Kiralama 	260.2024-01-001
+Masraf	GENEL YÖNETİM GİDERLERİ	770
+Masraf	Temizlik Giderleri Hs.	770.01.01.04.004
+Masraf	Konaklama Gider Vergisi Hs.	760.01.01.04.023
+Masraf	Konaklama Gider Vergisi Hs.	770.01.01.04.024
+Masraf	Adıyaman Fabrika Trafo, Elektrik Panosu	253.01.03.21.069
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.07.006
+Masraf	Adıyaman Yer Paleti - Raf (Malzeme İstİf	258.01.01.02.019
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.04.002
+Masraf	İlan ve Reklam Giderleri Hs.	770.01.01.03.005
+Masraf	Direkt İlk Madde Malzeme Giderleri	710.01.01.01.001
+Masraf	Kira Giderleri Hs.	760.01.01.04.012
+Masraf	Kira Stopaj Vergi Giderleri	770.01.01.05.010
+Masraf	Elektrik Giderleri Hs.	770.01.01.03.002
+Masraf	FİNANSMAN GİDERLERİ USD	780.01.02
+Masraf	Nakliye ve Taşıma Giderleri (Adıyaman)	258.01.01.03.001
+Masraf	Geçmiş Yıl Giderleri	689.01.01.01.007
+Masraf	FİNANSMAN GİDERLERİ	780
+Masraf	Tanıtım, İlan ve Reklam Giderleri Hs.	760.01.01.03.002
+Masraf	Banka Hizmet Masrafları	780.01.02.01.006
+Masraf	Adıyaman Kuyumsan (50 Kw İndüksiyon Pres	258.01.01.02.014
+Masraf	Adıyaman 6 Kafa Polisaj Makina Yapımı	258.01.01.02.025
+Masraf	İşçi Ulaşım Giderleri Hs.	770.01.01.01.008
+Masraf	Torna - Direkt İşçilik Giderleri Yansıtm	721.01.01.01.008
+Masraf	Küçük Demirbaş Giderleri	770.01.01.04.021
+Masraf	GENEL ÜRETİM GİD.YANSITMA HES.	731.01.01.01
+Masraf	Geri Kazanım Katılma Payı	770.01.01.05.014
+Masraf	E-Ticaret Giderleri	760.01.01.04.024
+Masraf	Diğer Çeşitli Giderler	760.01.01.04.025
+Masraf	Yurt Dışı E-Ticaret Giderleri	760.01.01.04.026
+Masraf	Adıyaman Mağaza	258.01.01.01.010
+Masraf	Adıyaman Yeni Yıkama Tesisi (Adıyaman)	253.01.03.16.021
+Masraf	Punta Makinası (Çelik Bölümü)	253.01.01.16.007
+Masraf	Mağaza Deposu Büyütme	264.01.01.16.001
+Masraf	İhracat Gümrükleme Gid.Hs.	760.01.01.04.014
+Masraf	CNC Torna (Soğutma Ünitesi)	253.01.03.23.003
+Masraf	AMORTİSMAN VE TÜKENME PAYLARI	760.01.01.06
+Masraf	Revizyon(8 Kafa Mop)	253.01.03.21.114
+Masraf	Kargo ve Nakliye Giderleri Hs.	730.01.01.03.004
+Masraf	T.S.E. Giderleri	770.01.01.03.012
+Masraf	Hatalı Ürün Tazminat Giderleri	730.01.01.04.027
+Masraf	Kalıp Yapımı (İmalat-2023)	253.01.03.22.120
+Masraf	Adıyaman Yeni Yıkama Tüneli 2024	253.01.03.24.007
+Masraf	Çeşitli Giderler Yansıtma Hs	771.01.01.01.004
+Masraf	ÇEŞİTLİ GİDERLER HS.	760.01.01.04
+Masraf	DİREKT İLKMADDE VE MALZEME GİD	71
+Masraf	Sayım Eksiği Giderleri	689.01.01.01.004
+Masraf	Matrah Arttırımı 5/1-a ve 5/1-c 	689.01.01.01.013
+Masraf	55 KW ELEKTRİK MOTOR SARIMI	253.01.03.21.119
+Masraf	Direkt Ambalaj Malzeme Giderleri	710.01.01.01.003
+Masraf	Büro Önü - Çardak Tadilat İşleri	264.01.01.17.008
+Masraf	İmalat - (Kumlama Makinası Yapımı)	253.01.03.21.111
+Masraf	DIŞARDAN SAĞLANAN FAYDA VE HİZMETLER HS.	770.01.01.03
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	770.01.01.01.003
+Masraf	Adıyaman Punta Ç.Su Kulesi Yapımı (Adıy)	258.01.01.02.003
+Masraf	PZR.SAT.VE DAĞ.GİD.FARK HESABI	762
+Masraf	İşçi Kıdem Tazminatı Hs.	770.01.01.01.006
+Masraf	Deprem Güçlendirme	258.01.01.03.012
+Masraf	Düdüklü Tencere Kapağı 2017/06951	260.2020-02-043
+Masraf	Otoyol ve Park Giderleri	770.01.01.04.010
+Masraf	Personel SSK Primleri Bağ-Kur	770.01.01.05.093
+Masraf	İstanbul Mağaza	258.01.01.01.011
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	770.01.01.01.002
+Masraf	Özel İletişim Vergisi Hs.	770.01.01.05.007
+Masraf	2 Kafa Polisaj Makina Revizyon-2020	253.01.01.20.005
+Masraf	Büro Önü - Çardak Tadilat İşleri	264.01.01.20.007
+Masraf	Hüseyin Özger SGK Yapılandırma	770.01.01.05.097
+Masraf	Taşıt Kiralama Giderleri	760.01.01.03.005
+Masraf	Adıyaman Fabrika Kalorifer Sistemi	258.01.01.02.029
+Masraf	Adıyaman Pres Makina Yapımı	258.01.01.02.008
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	770.01.01.01.005
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.09.004
+Masraf	Gecikme Zammı Giderleri Hs.	770.01.01.05.008
+Masraf	Hayırat Giderleri	760.01.01.04.088
+Masraf	Özkoç(2 Adet 160 T.Hidrolik Pres)Maliyet	253.01.03.21.118
+Masraf	Tepe Kulp 2021/004831	260.2020-02-061
+Masraf	Tava 2021/004829	260.2020-02-062
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.06.002
+Masraf	İmalat- Döküm hattı İçin yapılan	253.01.03.22.115
+Masraf	İmalat - 10 Kafa Polisaj Zımpara Makina	253.01.03.24.004
+Masraf	İmalat- Yapılmakta Olan Vakum Mak.	253.01.03.24.005
+Masraf	Amortisman Ve Tükenme Payı Hs.	760.01.01.06.001
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.02.006
+Masraf	Kırtasiye Ve Matbaa Giderleri	730.01.01.04.013
+Masraf	PZR.SAT.VE DAĞ.GİD.YANSITMA HS	761
+Masraf	Adıyaman (Hibbo 3x16 MT 80 Ton Baskül Ze	258.01.01.02.017
+Masraf	İşçi Ulaşım Giderleri Hs.	720.01.01.01.008
+Masraf	İmalat - (Teflon Fırın Yapımı 2020 )	253.01.03.20.065
+Masraf	Revizyon - (Tek Kafa Mop 2020 )	253.01.03.20.066
+Masraf	PUNTA BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.04
+Masraf	Kargo ve Nakliye Giderleri Hs.	760.01.01.03.001
+Masraf	İşçilik Giderleri Hs.	730.01.01.03.006
+Masraf	Entegre Yönetim Sistemi Giderleri Hs.	770.01.01.03.021
+Masraf	Yıkama Makinesi (Teflon Bölümü)	253.01.01.16.005
+Masraf	Diğer Çeşitli Giderler	770.01.01.04.099
+Masraf	Satılan Mamül Maliyeti	620.01.01.01.001
+Masraf	6 Kafa Zımpara Makinesi Yapımı	253.01.01.17.001
+Masraf	Elektrik Giderleri (Adıyaman)	258.01.01.03.002
+Masraf	Diğer Çeşitli Giderler	730.01.01.04.020
+Masraf	8 Kafa Polisaj Makinası Revizyonu	258.01.01.02.033
+Masraf	K-160 Pres Revizyonu	258.01.01.02.034
+Masraf	İmalat -(Bant Sistemi Yapımı)	253.01.03.22.112
+Masraf	Küçük Demirbaş Giderleri	760.01.01.04.018
+Masraf	Seramik - Direkt İşçilik Giderleri Yansı	721.01.01.01.009
+Masraf	Personele Verilen Ürünler (Hayırat)	730.01.01.04.024
+Masraf		
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.03.003
+Masraf	Çevre ve Atık Giderleri	730.01.01.04.023
+Masraf	Teflon Ağız Kesme Makinası (Revizyon)	253.01.03.22.111
+Masraf	İŞÇİ ÜCRET VE GİDERLERİ	730.01.01.01
+Masraf	Fuar Stand Bedeli Gid.Hs.	760.01.01.03.007
+Masraf	ÜRETİM YARDIMCI MALZEMELERİ	730.01.01.05
+Masraf	6 Kafa Polisaj -Zımpara Makina Revizyon	253.01.03.21.127
+Masraf	Adıyaman Kamera Güvenlik Sistemi	258.01.01.02.021
+Masraf	MERKEZ PAZARLAMA SATIŞ VE DAĞITIM GİD.	760.01.01
+Masraf	Kalıp Giderleri	730.01.01.03.007
+Masraf	Adıyaman Tek Kafa Taban Zımpara Yapımı	258.01.01.02.004
+Masraf	Kira Giderleri Hs.	770.01.01.99.001
+Masraf	PZR.SAT.VE DAĞ.GİD.YANSITMA HS	761.01.01.01
+Masraf	Alarm Abonelik ve Güvenlik Giderleri Hs.	770.01.01.03.019
+Masraf	İstanbul Showroom Yapımı - 2023-2024	264.01.01.23.001
+Masraf	Adıyaman Yapılmakta Olan Fabrika 	258.01.01.01.001
+Masraf	Esenyurt Mağaza Genişletme İşleri	264.01.01.01.007
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.08.006
+Masraf	H. Osman ÖZGER Şahsi Fatura Ödemeleri	770.01.01.03.016
+Masraf	Doğalgaz Giderleri	730.01.01.03.003
+Masraf	Tasarım Yenileme TPE 2015/07297	260.2020-02-028
+Masraf	Tasarım Yenileme TPE 2015/06535	260.2020-02-029
+Masraf	Tasarım Yenileme TPE 2015/06026	260.2020-02-030
+Masraf	Tasarım Yenileme TPE 2015/05924	260.2020-02-031
+Masraf	Tasarım Yenileme TPE 2015/08688	260.2020-02-032
+Masraf	Tasarım Yenileme TPE 2015/05183	260.2020-02-033
+Masraf	Tasarım Yenileme TPE 2015/08451	260.2020-02-034
+Masraf	Tasarım Yenileme TPE 2015/07298	260.2020-02-035
+Masraf	Eğitim Giderleri Hs.	770.01.01.99.002
+Masraf	Adıyaman Ütüleme Makinası Yapımı-2024	258.01.01.02.032
+Masraf	Teminat Mektubu Komisyon Giderleri Hs.	780.01.02.01.004
+Masraf	Müşavirlik-Danışmanlık Giderleri Hs.	770.01.01.03.010
+Masraf	DIŞARDAN SAĞLANAN FAYDA VE HİZMETLER HS.	730.01.01
+Masraf	Perçin Delik Delme Makinası	258.01.01.03.013
+Masraf	PAZARLAMA SATIŞ VE DAĞITIM GİD	76
+Masraf	İşçi Ücret Giderleri Hs.	730.01.01.01.001
+Masraf	Bağış ve Yardım Gid.	770.01.01.04.011
+Masraf	Adıyaman Satış Mağazası 	264.01.01.19.012
+Masraf	DİREKT İŞÇİLİK GİDERLERİ YANSITMA HS.	721.01.01.01
+Masraf	Oda Belge Tasdik Harçları	770.01.01.05.001
+Masraf	Dışardan Sağ.Fayda ve Hizmetler Yansıtma	731.01.01.01.003
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.06.003
+Masraf	Yatırım Teşvik Masrafı	770.01.01.05.023
+Masraf	Sair Giderler	760.01.01.04.008
+Masraf	Adıyaman Fabrika İdari ve İç Oda Bölmele	258.01.01.01.006
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.04.001
+Masraf	Parlak Yüzey Deseni	260.2020-02-056
+Masraf	Tencere Parlak Dış Yüzey	260.2020-02-057
+Masraf	Çakma Makina (Revizyonu)2025	253.01.03.24.008
+Masraf	Adıyaman Fab.Siklon Filtre (Havalandrma 	258.01.01.02.026
+Masraf	Elektrik Giderleri Hs.	760.01.01.03.003
+Masraf	Damga Vergi-Pulu Giderleri Hs.	770.01.01.05.005
+Masraf	K.M.H. Faiz Giderleri Hs.	780.01.02.01.008
+Masraf	Teflon Boya Sprey Hattı	253.01.01.15.003
+Masraf	Polisaj - Direkt İşçilik Giderleri Yansı	721.01.01.01.002
+Masraf	Hediye Giderleri	770.01.01.04.019
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.02.005
+Masraf	Çek Karnesi Değerli Kağıt Bedeli	770.01.01.05.018
+Masraf	Dışardan Sağ.Fayda ve Hizmetler Yansıtma	761.01.01.01.003
+Masraf	Taksit Kredi Faiz Giderleri Hs.	780.01.01.01.001
+Masraf	Taksit Kredi Faiz Giderleri Hs.	780.01.03.01.001
+Masraf	Taşıt Tamir, Bakım, Onarım, Muayene Gid.	730.01.01.04.004
+Masraf	Yıkama Tüneli (Çelik Bölümü)	253.01.01.16.003
+Masraf	Marka Yenileme OMS COLLECTİON Batı Şeria	260.2020-02-041
+Masraf	Stand ve Raf Giderleri Hs.	760.01.01.03.010
+Masraf	Fabrika Binalar Arası Çatı Yapımı	264.01.01.19.001
+Masraf	Büro Donanımı, Araç ve Gereçleri Gid.Hs.	770.01.01.04.006
+Masraf	Çok Fonk. Tavalarda Geliş. 2015/15856	260.2020-02-050
+Masraf	Çift Taraflı Tavada Geliştir. 2015/16218	260.2020-02-051
+Masraf	Elektrikli Tencere Geliş. 2016/18357	260.2020-02-052
+Masraf	Çok Amaçlı Pişirme Seti 2015/17264	260.2020-02-053
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.03.007
+Masraf	ÇEŞİTLİ GİDERLER HS.	770.01.01.04
+Masraf	POLİSAJ BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.02
+Masraf	Sağlık Giderleri Hs.	730.01.01.03.005
+Masraf	Pompa Kawasaki K3VL	253.01.03.25.001
+Masraf	Hidrofer Pompa	253.01.03.25.002
+Masraf	Taban Zımpara	253.01.03.25.003
+Masraf	Elektrik Malzemeleri Giderleri	760.01.01.04.019
+Masraf	Çaydanlık Takımı 2018/07503	260.2020-02-047
+Masraf	Çaydanlık Takımı 2019/20	260.2020-02-048
+Masraf	Tencere 2019/02261	260.2020-02-049
+Masraf	FİNANSMAN GİDERLERİ TL	780.01.01
+Masraf	Gelir ve Hizmet İadeleri	612.01.99.02.007
+Masraf	Kalıp Yapımı (İmalat-2022)	253.01.03.22.110
+Masraf	PAZ.SATIŞ VE DAĞ.GİDERLERİ	760
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.09.007
+Masraf	FİNANSMAN GİDERLERİ YANSITMA HS.	781.01
+Masraf	PZR.SAT.VE DAĞ.GİD.YANSITMA HS	761.01.01
+Masraf	Marka Başv.(O.M.S. Mtf.Fark Üretir)	260.2021-04-001
+Masraf	Marka Başv.(O.M.)	260.2021-04-002
+Masraf	Marka Başv.(O.M.S.Collection Store)	260.2021-04-003
+Masraf	Adıyaman Yeni Soyunma Odası	253.01.03.21.113
+Masraf	Yeni Yapılan Mutfak 	264.01.01.19.015
+Masraf	Rotatif Kredi Faiz Giderleri Hs.	780.01.02.01.002
+Masraf	Banka Hizmet Masrafları	780.01.03.01.006
+Masraf	İŞÇİ ÜCRET VE GİDERLERİ	770.01.01.01
+Masraf	Saf Su Arıtma Ünitesi	253.01.01.16.004
+Masraf	Zekat Giderleri	770.01.01.04.015
+Masraf	İşçi Ücret Giderleri Hs.	770.01.01.01.001
+Masraf	Paketleme - Direkt İşçilik Giderleri Yan	721.01.01.01.005
+Masraf	Kovan Kesme Makinesi	253.01.03.25.007
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.07.005
+Masraf	Finansal Kiralama Kar Payı Gideri	780.01.03.01.012
+Masraf	İmalat- Kaplama Makinası Yapımı	253.01.03.22.116
+Masraf	Ort.Kurulu Odası Yenileme	264.01.01.20.006
+Masraf	Yükleme Alanı Yapımı2020(Fabrika Arkası)	264.01.01.20.003
+Masraf	Temsil ve Ağırlama Giderleri Hs.	760.01.01.03.012
+Masraf	Yeni Çaydanlık Yeri Yapımı(2020)	264.01.01.20.004
+Masraf	Adıyaman Yapılmakta Olan Fabrika 2	258.01.01.01.004
+Masraf	Teflon Bölümü Yeni Fırın Yapımı 08/2020	253.01.03.20.003
+Masraf	Fab.Tes.Mak.D.Baş Tamir,Bak.Onar.Gid.Hs.	258.01.01.20.001
+Masraf	Kalıp Yapımı (İmalat-2024)	253.01.03.24.001
+Masraf	Jenaratör Revizyon	253.01.03.16.062
+Masraf	İaşe,Yeme-İçme,Sunum ve Servis Gid. Hs.	760.01.01.04.013
+Masraf	İşçi Damga Vergisi (Muhtasar)	770.01.01.01.011
+Masraf	Muhtelif Malzeme Giderleri	730.01.01.04.010
+Masraf	DİREKT İŞCİLİK GİDERLERİ	72
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.05.004
+Masraf	GENEL YÖNETİM GİD.FARKLARI HS.	772
+Masraf	GENEL YÖNETİM GİDERLERİ	770.01
+Masraf	Yurtiçi Konaklama ve Seyahat Gid.Hs.	760.01.01.04.003
+Masraf	Banka Hizmet Masrafları	780.01.01.01.006
+Masraf	Personel Koruyucu Ekipmanları Hs	730.01.01.04.014
+Masraf	İnternet, Bilgi İşlem Hiz.Gid.Hs.	770.01.01.03.006
+Masraf	İhracat Nakliye ve Gümrükleme Gid.Hs.	760.01.01.04.005
+Masraf	K.M.H. Faiz Giderleri Hs.	780.01.01.01.008
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.01.006
+Masraf	Yeni Yapılan Yük Asansörü (Paketleme)	253.01.03.23.001
+Masraf	Düğün, Mobilya,Ev Eşyaları Giderleri Hs.	770.01.01.99.003
+Masraf	Kurban Giderleri	770.01.01.04.016
+Masraf	Kargo ve Nakliye Giderleri Hs.	770.01.01.03.004
+Masraf	ÇEŞİTLİ GİDERLER HS.	730.01.01.04
+Masraf	Fab.Tes.Mak.D.Baş Tamir,Bak.Onar.Gid.Hs.	730.01.01.04.005
+Masraf	Depo Kasa Aktarım Prog. (Mustafa Ağbaş)	260.01.01.01.009
+Masraf	PAKETLEME BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.05
+Masraf	Güneş Enerjisi Sistemi İmalat - Gölbaşı 	253.01.03.20.068
+Masraf	İmalata Ek Bölüm Yapımı (Kaplamacı Altı)	264.01.01.20.014
+Masraf	Kur Farkları	656.01.01.01.003
+Masraf	İmalat - Direkt İşçilik Giderleri Yansıt	721.01.01.01.001
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.02.007
+Masraf	Dışarıdan Sağlanan Diğ.Fayda ve Hiz.Hs.	750.01.01.03.009
+Masraf	Finansal Kiralama Kar Payı Gideri	780.01.02.01.012
+Masraf	DIŞARDAN SAĞLANAN FAYDA VE HİZMETLER HS.	730.01.01.03
+Masraf	Revizyon ( K-110 Hidrolik Pres Pano )	253.01.03.21.116
+Masraf	Alarm Abonelik ve Güvenlik Giderleri Hs.	760.01.01.03.019
+Masraf	160 Ton Pres Ünite ve Tank	258.01.01.03.017
+Masraf	110 Ton Hidrolik Pres Makinesi Revizyon	253.01.03.25.005
+Masraf	GENEL YÖNETİM GİDERLERİ	77
+Masraf	FG-4	GDR-M1454
+Masraf	Yuvarlama Farkları	689.01.01.01.001
+Masraf	İşçi S.S.K. İşveren His.Hs.	770.01.01.01.004
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.01.007
+Masraf	Bakımhane Bölümü Yapımı 2020 	264.01.01.20.002
+Masraf	İmalat - Perçin Delik Makinası	253.01.03.21.115
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.02.003
+Masraf	250 Ton Hidrolik Pres Revizyonu 2024	253.01.03.24.006
+Masraf	Teminat Mektubu Komisyon Giderleri Hs.	780.01.01.01.004
+Masraf	İMALAT BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.01
+Masraf	GENEL YÖNETİM GİD.YANSITMA HS.	771.01
+Masraf	Kompresör Tesisatı Revizyon-2019	253.01.03.19.004
+Masraf	Bağkur Giderleri Hs	770.01.01.99.005
+Masraf	İşçi İhbar Tazminatı Hs.	770.01.01.01.007
+Masraf	Emlak Vergileri  Ortakların	770.01.01.03.018
+Masraf	Direkt İlk Mad.Malz.Gid.Yansıtma Hs.	711.01.01.01.001
+Masraf	P.O.S. Komisyon Giderleri Hs.	780.01.01.01.007
+Masraf	İmalat - (Taban Zımpara Makinası Yapımı)	253.01.03.21.001
+Masraf	İmalat - (Bant Sistemi Yapımı)	253.01.03.21.002
+Masraf	Kalıp Yapımı (İmalat-2021)	253.01.03.21.110
+Masraf	Amortisman ve Tükenme Payları Yansıtma H	761.01.01.01.006
+Masraf	Bina Bakım Onarım Giderleri	770.01.01.04.022
+Masraf	Çakma Frın Makina Yapımı (İmalat)	253.01.01.18.002
+Masraf	Kendindek Kulplu Tencere (2015/09856 )	260.2020-02-045
+Masraf	Çok Fonksiyonlu Tava (2015/10779)	260.2020-02-046
+Masraf	DİREKT İLKMADDE VE MALZEME GİDERLERİ	710.01.01
+Masraf	Sigorta Giderleri Hs.	730.01.01.04.017
+Masraf	Ütüleme Makinası Yapımı-2024	258.01.01.02.035
+Masraf	Tasarım Yenileme TPE 2015/10779	260.2020-02-066
+Masraf	Tasarım Yenileme TPE 2015/09856	260.2020-02-067
+Masraf	İndirim Yapılamayan KDV (Geçmiş Dönem)	770.01.01.05.024
+Masraf	Personel Gelir Vergisi	770.01.01.05.091
+Masraf	DİREKT İLK MAD.VE MAL.YANS.HS	711
+Masraf	Vergi Resim ve Harçlar Yansıtma Hs	771.01.01.01.005
+Masraf	DIŞARDAN SAĞLANAN FAYDA VE HİZMETLER HS.	760.01.01.03
+Masraf	GENEL YÖNETİM GİDERLERİ	770.01.01
+Masraf	Marka,Tasarım,Faydalı Model,Patent Gid.	770.01.01.03.013
+Masraf	Amortisman ve Tükenme Payları Yansıtma H	731.01.01.01.006
+Masraf	Adıyaman Kuyumsan (50 Kw İndüksiyon Pres	258.01.01.02.012
+Masraf	GENEL ÜRETİM GİDERLERİ	730
+Masraf	İmalat - (Maça Makinası Yapımı)	253.01.03.21.004
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.08.002
+Masraf	Aidat Giderleri	770.01.01.04.009
+Masraf	Kira Giderleri Hs.	770.01.01.04.012
+Masraf	AMORTİSMAN VE TÜKENME PAYLARI	730.01.01.06
+Masraf	Su Giderleri Hs.	760.01.01.03.008
+Masraf	2010/02137 Tencere	260.2020-02-025
+Masraf	Tencere 2017/02126	260.2020-02-019
+Masraf	Tencere 2012/02080	260.2020-02-063
+Masraf	2015/02844 Tencere	260.2020-02-024
+Masraf	Tava 2021/006304	260.2020-02-064
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.04.006
+Masraf	Dışarıdan Sağlanan Diğ.Fayda ve Hiz.Hs.	770.01.01.03.009
+Masraf	DİREKT İŞÇİLİK GİDERLERİ YANSITMA.	721.01
+Masraf	Diğer Olağandışı Giderler	689.01.01.01.005
+Masraf	DİREKT İŞÇİLİK GİDERLERİ	720.01.01
+Masraf	Ekpertiz Gider Masrafları	770.01.01.05.025
+Masraf	OMS MULLER	260.01.01.01.006
+Masraf	OMS KOCH TOPF	260.01.01.01.007
+Masraf	Personel Taşıma ve Servis Giderleri	730.01.01.04.028
+Masraf	Magenty V2 E-Tic. ve E-İhr.Yön. Sistemi	260.2025-01-001
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.01.001
+Masraf	Otoyol HGS ve Park Giderleri	730.01.01.04.029
+Masraf	Personel Giyim Giderleri Hs.	730.01.01.04.006
+Masraf	Adıyaman Havalandırma Yapımı (Adıyaman)	253.01.03.16.025
+Masraf	İşçi Sağlığı Giderleri	770.01.01.01.021
+Masraf	İş Güvenliği Ve Sağlığı Giderleri Hs.	730.01.01.04.018
+Masraf	Alet Edevat Donanım Giderleri	730.01.01.04.026
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.02.002
+Masraf	Çek Tahsilat Ücretleri Hs.	780.01.01.01.010
+Masraf	Yönetim Kurulu Bag-Kur	770.01.01.01.029
+Masraf	İşçi S.S.K. İşveren His.Hs.	760.01.01.01.004
+Masraf	Kredi Komisyon Giderleri Hs.	780.01.02.01.005
+Masraf	DİDEM (2004/10266)	260.01.01.04.018
+Masraf	Şafak Vergiler 	770.01.01.05.098
+Masraf	Arnavutköy Satış Mağaza	264.01.01.21.001
+Masraf	VERGİ RESİM VE HARÇLAR	770.01.01.05
+Masraf	FİNANSMAN GİDERLERİ YANSITMA HS.	781.01.01.01
+Masraf	Amortisman Ve Tükenme Payı Hs.	730.01.01.06.001
+Masraf	34 CTC 494 Plakalı Araç Maliyet Oluşumu	254.01.01.03.001
+Masraf	DEPO BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.06
+Masraf	Adıyaman Doğalgaz İşleri	253.01.01.20.006
+Masraf	FİNANSMAN GİDERLERİ YANSITMA HS.	781.01.01
+Masraf	Taşıt Tamir, Bakım, Onarım, Muayene Gid.	770.01.01.04.003
+Masraf	Karakaş İnşaat	252.01.01.01.005
+Masraf	Şirket Giderleri	770.01.01.05.099
+Masraf	Adıyaman Vakum Makina Yapımı	258.01.01.02.007
+Masraf	FINANSMAN GID.YANSITMA HESABI	781
+Masraf	Doğalgaz Giderleri	770.01.01.03.008
+Masraf	Çeşitli Giderler Yansıtma Hs	731.01.01.01.004
+Masraf	Su Giderleri Hs.	770.01.01.03.003
+Masraf	İşçi İhbar Tazminatı Hs.	760.01.01.01.007
+Masraf	Temizlik Giderleri Hs.	760.01.01.04.020
+Masraf	E-Ticaret Giderleri	760.01.01.04.24
+Masraf	Paksan Madeni Eşya (5 Kafalı İç Polisaj 	253.01.03.16.059
+Masraf	Kira Stopaj Giderleri	770.01.01.05.003
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.04.005
+Masraf	Villa İnşaat - Mustafa Özger	252.01.01.01.002
+Masraf	Satış İskontosu	611.01.04.05.008
+Masraf	Sair Giderler	730.01.01.04.012
+Masraf	Teflon Bölümü Sundurma Ve Merdiven	264.01.01.16.004
+Masraf	250 Ton Pres Revizyonu	258.01.01.02.036
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.05.007
+Masraf	Finansal Kiralama Kar Payı Gideri	780.01.01.01.012
+Masraf	Adıyaman Kuyu (Makina) Yapımı	258.01.01.02.011
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.03.006
+Masraf	İmalat- Yapılmakta Olan Polisaj Mak.	253.01.03.22.114
+Masraf	Sayım Fazlası Gelirleri	679.01.01.01.005
+Masraf	Teflon Bölümü Yeni Fırın Yapımı 2016	253.01.03.16.061
+Masraf	Elektrik Malzemeleri Giderleri	730.01.01.04.011
+Masraf	DİREKT İLKMADDE VE MALZEME GİDERLERİ	710.01
+Masraf	İşçilik Giderleri Yansıtma Hs	731.01.01.01.001
+Masraf	Etek Kesme Makinesi	253.01.01.25.001
+Masraf	Mutabakat Farkları	770.01.01.03.020
+Masraf	Delik Delme Makinası	258.01.01.03.016
+Masraf	Adıyaman Polisaj Makina Yapımı Yeni	258.01.01.02.027
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.04.004
+Masraf	Yapılmakta Olan Fabrika Binası(Teşvikli)	258.01.01.01.002
+Masraf	Tasarım Yenileme TPE 2021/059013	260.2020-02-068
+Masraf	Tasarım Yenileme TPE 2021/037702	260.2020-02-069
+Masraf	İşçi Ücretleri Maaş Tamamlama Gid. Hs.	730.01.01.01.008
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.09.003
+Masraf	İmalat - (Desen Makinası Yapımı)	253.01.03.21.003
+Masraf	Çok Fonksiyonlu Tava (2015/10779)	260.01.01.03.001
+Masraf	Kendinden Kulplu Tencere (2015/09856)	260.01.01.03.002
+Masraf	Depo - Direkt İşçilik Giderleri Yansıtma	721.01.01.01.006
+Masraf	Temizlik Giderleri Hs.	730.01.01.04.002
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.01.004
+Masraf	Konut Giderleri Hs	770.01.01.99.006
+Masraf	Adıyaman Yapılmakta Olan Fa.4.Blok 2023 	258.01.01.01.008
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.06.004
+Masraf	Kumanya Stokları	157.01.01.01.001
+Masraf	İdari Para Cezaları	770.01.01.05.011
+Masraf	Yüksel Elektrik(Elektrikli Ağaç Kesme Mo	253.01.03.22.117
+Masraf	YAKIT	TEST
+Masraf	Yükleme Alanı Düzenleme	264.01.01.19.014
+Masraf	Taşıt Yakıt Giderleri Hs.	770.01.01.04.002
+Masraf	Karşılık Giderleri	654.01.01.01.001
+Masraf	Taban Punta Makinesi	253.01.03.25.004
+Masraf	DİREKT İLK MAD.MALZ.GİD.YANSITMA HS.	711.01.01
+Masraf	Diğer Çeşitli Giderler (Adıyaman)	258.01.01.03.004
+Masraf	Mühendisler için Ofis Tadilatı	264.01.01.17.009
+Masraf	Polmak Makina(55 Kw PO-RKAK-D20 Kayışlı 	258.01.01.02.005
+Masraf	Gölbaşı Mağaza Büyütme (2020)	264.01.01.20.005
+Masraf	DİREKT İLK MADDE VE MALZEME GD	710
+Masraf	Kalıp İmalatta Yapılan Kalıplar	258.01.01.03.009
+Masraf	Elektrik Giderleri Hs.	730.01.01.03.001
+Masraf	Aidat Giderleri	730.01.01.04.030
+Masraf	Diğer İndirimler	612.01.99.02.005
+Masraf	Kusurlu Ürün Bedelleri	612.01.99.02.006
+Masraf	10 Kafalı Polisaj Makinası Revizy	253.01.01.16.023
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.07.001
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.09.005
+Masraf	İşçi İhbar Tazminatı Hs.	720.01.01.06.007
+Masraf	Bina Bakım Onarım Giderleri	730.01.01.04.009
+Masraf	İşçi İhbar Tazminatı Hs.	730.01.01.01.007
+Masraf	Çevre ve Danışmanlık	770.01.01.04.023
+Masraf	İşçi Kıdem Tazminatı Hs.	760.01.01.01.006
+Masraf	İşçi İşsizlik Sigortası İşveren His.Hs.	720.01.01.01.005
+Masraf	T-Soft V4.2 D.M. E-Ticaret Busines Yb	260.01.01.01.010
+Masraf	Adıyaman Fabrika Bahçe Düzenleme	252.01.01.01.007
+Masraf	Mustafa ÖZGER Şahsi Fatura Ödemeleri	770.01.01.03.017
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.03.001
+Masraf	Teflon Bölümü Yeni Fırın Yapımı 10/2019	253.01.03.19.003
+Masraf	Adıyaman Yeni Yapılacak Makina ?	258.01.01.02.020
+Masraf	İşçi Kıdem Tazminatı Hs.	720.01.01.05.006
+Masraf	DİREKT İLKMADDE VE MALZEME GİDERLERİ	710.01.01.01
+Masraf	Adıyaman Fabrika Yangın Teribatı Sistemi	258.01.01.02.018
+Masraf	Personel Giyim Giderleri Hs.	760.01.01.04.022
+Masraf	İşçi Ücret Giderleri Hs.	720.01.01.06.001
+Masraf	Direkt  Yardımcı Mlz Giderleri	710.01.01.01.002
+Masraf	ZIMPARA BÖLÜMÜ İŞÇİLİK GİDERLERİ	720.01.01.03
+Masraf	Poşet Ücreti İadeleri	689.01.01.01.009
+Masraf	Tapu Harçları	770.01.01.05.017
+Masraf	Fuar Katılım Bedelleri Gid.Hs.	760.01.01.03.006
+Masraf	Paksan (Revizyon 9 Kafalı Polisaj Makina	253.01.03.16.057
+Masraf	Spot Kredi Faiz Giderleri Hs.	780.01.03.01.003
+Masraf	İşçi Fazla Mesai Ücret Giderleri Hs.	720.01.01.07.002
+Masraf	GENEL YÖNETİM GİD.YANSITMA HS.	771.01.01
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	720.01.01.05.003
+Masraf	Personel Damga Vergisi	770.01.01.05.092
+Masraf	İşçi S.S.K. İşveren His.Hs.	720.01.01.08.004
+Masraf	ÖZGER AİLESİ GİDERLERİ	770.01.01.99
+Masraf	İşçi Yıllık İzin Ücret Giderleri Hs.	760.01.01.01.003
+Masraf	Sigorta Giderleri Hs.	760.01.01.04.011
