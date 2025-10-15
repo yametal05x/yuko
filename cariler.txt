@@ -1,3 +1,4 @@
+Tipi	Cari Adı	Cari Kodu
 Cari	??? Bilinmeyen Havaleler ???	120.01.01.01.A00
 Cari	A&C Hediyelik ve Züccaciye	120.01.01.01.A01
 Cari	Abbas Karatoprak	120.01.01.01.A02
