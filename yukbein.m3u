@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,BeIN Sports 1
+https://95.179.168.179/bein1/index.m3u8
+#EXTINF:-1,BeIN Sports 2
+https://95.179.168.179/bein2/index.m3u8
+#EXTINF:-1,BeIN Sports 3
+https://95.179.168.179/bein3/index.m3u8
+#EXTINF:-1,BeIN Sports 4
+https://95.179.168.179/bein4/index.m3u8
+#EXTINF:-1,BeIN Sports 5
+https://95.179.168.179/bein5/index.m3u8
+#EXTINF:-1,S SPORT HD 1
+https://95.179.168.179/s-sport/index.m3u8
+#EXTINF:-1,S SPORT HD 2
+https://95.179.168.179/s-sport2/index.m3u8
