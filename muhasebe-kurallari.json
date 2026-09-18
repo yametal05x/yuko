@@ -264,7 +264,7 @@
   },
   {
     "id": "rule-1788162138522",
-    "kayitTipi": "Virman",
+    "kayitTipi": "Virman (Mahsup)",
     "direction": "giris",
     "keywords": "SATIŞ TUTARI GÖLBAŞI",
     "sablonMetni": "K\t108.I07\t\t\t693761413 POS Kredi Kartı Virman\tA\t\t{TUTAR}\t\nB\t102.01.I004\t\t\t693761413 POS Kredi Kartı Virman\tB\t\t{TUTAR}\t\n",
