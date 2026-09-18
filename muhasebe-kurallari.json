@@ -284,7 +284,7 @@
   },
   {
     "id": "rule-1788162323361",
-    "kayitTipi": "Virman",
+    "kayitTipi": "Virman (Mahsup)",
     "direction": "giris",
     "keywords": "1379/0023939 virman",
     "sablonMetni": "B\t102.01.I004\t\t\tİş bankası Hesaplar Arası virman\tB\t\t{TUTAR}\t\nB\t102.01.I003\t\t\tİş bankası Hesaplar Arası virman\tA\t\t{TUTAR}\t\n",
