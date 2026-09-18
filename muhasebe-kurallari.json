@@ -1,0 +1,1309 @@
+[
+  {
+    "id": "rule-1789712560747",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "PT2897431,K:",
+    "sablonMetni": "K\t108.G07\t0\t\tPT2897431 POS Kredi Kartı Virmanı\tA\t\t{TOPLAM}\t47\nM\t770.01.01.07.007\t0\t\tPT2897431 POS Masrafı\tB\t\t{MASRAF}\t\nB\t102.01.G001\t1\t\tPT2897431 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}",
+    "bankalar": [
+      "Garanti"
+    ]
+  },
+  {
+    "id": "rule-1789712601817",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "PK2897431,K:",
+    "sablonMetni": "K\t108.G07\t0\t\tPK2897431 POS Kredi Kartı Virmanı\tA\t\t{TOPLAM}\t47\nM\t770.01.01.07.007\t0\t\tPK2897431 POS Masrafı\tB\t\t{MASRAF}\t\nB\t102.01.G001\t1\t\tPK2897431 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}",
+    "bankalar": [
+      "Garanti"
+    ]
+  },
+  {
+    "id": "rule-1789712640916",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "PT2490740,K:",
+    "sablonMetni": "K\t108.G01\t0\t\tPT2490740 POS Kredi Kartı Virmanı\tA\t\t{TOPLAM}\t20\nM\t770.01.01.07.007\t0\t\tPT2490740 POS Masrafı\tB\t\t{MASRAF}\t\nB\t102.01.G001\t1\t\tPT2490740 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}",
+    "bankalar": [
+      "Garanti"
+    ]
+  },
+  {
+    "id": "rule-1789712670714",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "PK2490740,K:",
+    "sablonMetni": "K\t108.G01\t0\t\tPK2490740 POS Kredi Kartı Virmanı\tA\t\t{TOPLAM}\t20\nM\t770.01.01.07.007\t0\t\tPK2490740 POS Masrafı\tB\t\t{MASRAF}\t\nB\t102.01.G001\t1\t\tPK2490740 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}",
+    "bankalar": [
+      "Garanti"
+    ]
+  },
+  {
+    "id": "rule-1789712871409",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "ODUL KULLANIM 2490740",
+    "sablonMetni": "K\t108.G01\t0\t\tPK2490740 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t20\t\nB\t102.01.G001\t1\t\tPK2490740 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}",
+    "bankalar": [
+      "Garanti"
+    ]
+  },
+  {
+    "id": "rule-1789712981360",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "PK1585927,K:",
+    "sablonMetni": "K\t108.G08\t0\t\tPK1585927 POS Kredi Kartı Virmanı\tA\t\t{TOPLAM}\t50\nM\t770.01.01.07.007\t0\t\tPK1585927 POS Masrafı\tB\t\t{MASRAF}\t\nB\t102.01.G001\t1\t\tPK1585927 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}",
+    "bankalar": [
+      "Garanti"
+    ]
+  },
+  {
+    "id": "rule-1788161644328",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "MokaUnited",
+    "sablonMetni": "K\t108.I10\t\t\tMoka Sanal Pos Ödemesi\tA\t\t{TUTAR}\t\nB\t102.01.I004\t\t\tMoka Sanal Pos Ödemesi\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1788162048702",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "GAYRI NAKDI",
+    "sablonMetni": "G\t780.01.01.01.004\t\t\tTeminat Mektubu Masrafı ETMDZ25-352075\t{TUTAR}\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1788162138522",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "SATIŞ TUTARI GÖLBAŞI",
+    "sablonMetni": "K\t108.I07\t\t\t693761413 POS Kredi Kartı Virman\tA\t\t{TUTAR}\t\nB\t102.01.I004\t\t\t693761413 POS Kredi Kartı Virman\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1788162201687",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "1379/0020921 virman",
+    "sablonMetni": "B\t102.01.I004\t\t\tİş bankası Hesaplar Arası virman\tB\t\t{TUTAR}\t\nB\t102.01.I002\t\t\tİş bankası Hesaplar Arası virman\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1788162323361",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "1379/0023939 virman",
+    "sablonMetni": "B\t102.01.I004\t\t\tİş bankası Hesaplar Arası virman\tB\t\t{TUTAR}\t\nB\t102.01.I003\t\t\tİş bankası Hesaplar Arası virman\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "default-muhammed-yaman-giris",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "muhammed yaman",
+    "sablonMetni": "C\t120.01.01.01.M205\t\t\tGelen Muhammed Yaman\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "QNB",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788186100065",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "0000685208886/NET SATIŞ TUTARI",
+    "sablonMetni": "K\t108.I01\t\t\t685208886 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t20\nB\t102.01.I003\t\t\t685208886 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1788186154350",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "0000670921964/NET SATIŞ TUTARI",
+    "sablonMetni": "K\t108.I08\t\t\t670921964 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t50\nB\t102.01.I003\t\t\t670921964 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1788186190380",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "0000677180846/NET SATIŞ TUTARI",
+    "sablonMetni": "K\t108.I01\t\t\t677180846 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t20\nB\t102.01.I003\t\t\t677180846 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1788847413461",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "4508****0359",
+    "sablonMetni": "B\t309.05\t\t\t**0359 Nolu KK Ödemesi\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1789110229094",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "PET.TAS.8747 /HALİLPEKDE",
+    "sablonMetni": "C\t320.01.01.01.H102\t\t\tDbs Ödemesi\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1789367830761",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ALP LAZER SERVİS MÜHENDİSLİK",
+    "sablonMetni": "C\t320.01.01.01.A290\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789367875805",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "HYPERİON İŞLEME",
+    "sablonMetni": "C\t320.01.01.01.H23\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789367892929",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "TURGAY TAMAN",
+    "sablonMetni": "C\t320.01.01.01.T114\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789367907591",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "İSAR GROUP",
+    "sablonMetni": "C\t320.01.01.01.I119\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789367928771",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "BİROL YAY SANAYİ VE TİCARET",
+    "sablonMetni": "C\t320.01.01.01.B21\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789367944258",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "DEVA TIP MERKEZİ",
+    "sablonMetni": "C\t320.01.01.01.D75\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789367958885",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "TACİROĞLU LOJİSTİK",
+    "sablonMetni": "C\t320.01.01.01.T120\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789367979471",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "İSTELSAN İSTANBUL TELEKOMİNİKASYON",
+    "sablonMetni": "C\t320.01.01.01.I72\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789367993647",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ADİL KABARCIK",
+    "sablonMetni": "C\t320.01.01.01.K87\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368010771",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ENDER DALOĞLU",
+    "sablonMetni": "C\t320.01.01.01.E151\t\t\tCari Hesaba\t{TUTAR}\n",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368028475",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ZİNİSAN VAKUM",
+    "sablonMetni": "C\t320.01.01.01.Z02\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368041265",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "KÜRESEL ORTAK SAĞLIK",
+    "sablonMetni": "C\t320.01.01.01.K80\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368053408",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ELSE ENERJİ",
+    "sablonMetni": "C\t320.01.01.01.E180\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368069623",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "MYD PEYZAJ",
+    "sablonMetni": "C\t320.01.01.01.M178\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368083678",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "İSFA YEMİNLİ",
+    "sablonMetni": "C\t336.01.01.01.I68\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368097058",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "PROYANS MÜHENDİSLİK",
+    "sablonMetni": "C\t320.01.01.01.P81\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368109906",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "GENSU İSTİF",
+    "sablonMetni": "C\t320.01.01.01.G116\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368123188",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "MNG KARGO",
+    "sablonMetni": "C\t336.01.01.01.M57\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368135541",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "RECEP KILIÇ",
+    "sablonMetni": "C\t320.01.01.01.R55\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368149776",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "UPS HIZLI KARGO",
+    "sablonMetni": "C\t336.01.01.01.U52\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368165070",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "KAHRAMANMARAŞ İŞ SAĞLIĞI",
+    "sablonMetni": "C\t320.01.01.01.K156\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368189092",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "SAĞLAM METAL SAN",
+    "sablonMetni": "C\t320.01.01.01.S46\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368203222",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ALİ KILINÇ",
+    "sablonMetni": "C\t320.01.01.01.A261\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368214606",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "SEMA ELMAS",
+    "sablonMetni": "C\t320.01.01.01.S152\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368227335",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "HACİ AKIN",
+    "sablonMetni": "C\t320.01.01.01.A150\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368244998",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "SINIRLI SORUMLU HAYDARPAŞA",
+    "sablonMetni": "C\t336.01.01.01.S78\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368256247",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "A-SİL KABLO",
+    "sablonMetni": "C\t320.01.01.01.A33\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368268316",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "SİM GE PETROL",
+    "sablonMetni": "C\t320.01.01.01.S122\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368282580",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "SÜLEYMAN RECEP TEZEL",
+    "sablonMetni": "C\t320.01.01.01.O05\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368295713",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "BAYIR SOLAR ENERJİ ELEKTRİK",
+    "sablonMetni": "C\t320.01.01.01.B141\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368306843",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "EMİN KAYA",
+    "sablonMetni": "C\t336.01.01.02.E07\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368320936",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ALİ İBİLİ",
+    "sablonMetni": "C\t320.01.01.01.A225\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368335340",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "AKTİF GIDA",
+    "sablonMetni": "C\t320.01.01.01.A236\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368360056",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "HASAN ÇINAR",
+    "sablonMetni": "C\t320.01.01.01.A05\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789368372791",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ADIYAMAN SERHAT",
+    "sablonMetni": "C\t320.01.01.01.A143\t\t\tCari Hesaba\t{TUTAR}",
+    "bankalar": [
+      "İş Bankası",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789397629552",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "SALİM SEVİM",
+    "sablonMetni": "C\t336.01.01.01.N426\t\t\tCari Hesaba\t{TUTAR}\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1789397642542",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "GÜLSEN GÜNERİ",
+    "sablonMetni": "C\t336.01.01.01.N427\t\t\tCari Hesaba\t{TUTAR}\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1789397654100",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "GÜVENDİK ASMA TAVAN",
+    "sablonMetni": "C\t320.01.02.03.G01\t\t\tCari Hesaba\t{TUTAR}\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1789397664743",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "KARDEŞLER GALVANİZ",
+    "sablonMetni": "C\t320.01.01.01.K168\t\t\tCari Hesaba\t{TUTAR}\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1789397676120",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "TURGAY DURAK",
+    "sablonMetni": "C\t320.01.01.01.T34\t\t\tCari Hesaba\t{TUTAR}\n",
+    "bankalar": [
+      "İş Bankası"
+    ]
+  },
+  {
+    "id": "rule-1788244822194",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "İşyeri:088400000050575",
+    "sablonMetni": "K\t108.F01\t\t\t50575 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t20\nB\t102.01.F002\t\t\t50575 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "rule-1788244853101",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "İşyeri:088400000052829",
+    "sablonMetni": "K\t108.F08\t\t\t52829 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t50\nB\t102.01.F002\t\t\t52829 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "rule-1788244870498",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "İşyeri:088400000052829",
+    "sablonMetni": "M\t770.01.01.07.007\t\t\t52829 POS Masrafı\tB\t\t{TUTAR}\t50\nB\t102.01.F002\t\t\t52829 POS Masrafı\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "rule-1788244971093",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "İşyeri:088400000052811",
+    "sablonMetni": "K\t108.F07\t\t\t52811 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t46\nB\t102.01.F002\t\t\t52811 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "rule-1788245048524",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "İşyeri:088400000050575",
+    "sablonMetni": "M\t770.01.01.07.007\t\t\t50575 POS Masrafı\tB\t\t{TUTAR}\t20\nB\t102.01.F002\t\t\t50575 POS Masrafı\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "rule-1788245126375",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "İşyeri:088400000052811",
+    "sablonMetni": "M\t770.01.01.07.007\t\t\t52811 POS Masrafı\tB\t\t{TUTAR}\t46\nB\t102.01.F002\t\t\t52811 POS Masrafı\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "default-hgs-virman-cikis",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "hgs",
+    "sablonMetni": "M\t760.01.01.04.010\t\t\t{PLAKA} HGS\tB\t\t{TUTAR}\t\nB\t102.01.H021\t\t\t{PLAKA} HGS\tA\t\t{TUTAR}\t",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "default-cek-provizyon-cikis",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "çek provizyon masrafı",
+    "sablonMetni": "G\t770.01.01.07.010\t\t\tÇek Provizyon Masrafı\t{TUTAR}",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "rule-1788846551982",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "Muhabir Masrafı",
+    "sablonMetni": "G\t770.01.01.04.014\t\t10\tMuhabir Banka Masrafı\t{TUTAR}\n",
+    "bankalar": [
+      "QNB"
+    ]
+  },
+  {
+    "id": "rule-1788176961254",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "TRENDYOL Marketplace Odeme",
+    "sablonMetni": "C\t320.01.01.01.D69\t\t\tGelen DSM Grup\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788178568880",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "ERGÜN GENİŞ Ulucan",
+    "sablonMetni": "C\t120.01.01.01.E140\t\t\tGelen Ergün Geniş\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788178605105",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "YELKEN KALIP PENCERE",
+    "sablonMetni": "C\t120.01.01.01.Y89\t\t\tGelen Yelken Kalıp Pencere \t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788179336177",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "İski/Abone No: 67057118",
+    "sablonMetni": "C\t336.01.01.02.I53\t\t\tİski Ödeme Abone No: 67057118\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788179421572",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "CK BOĞAZİÇİ Elektrik Abone No: 2384708464",
+    "sablonMetni": "C\t336.01.01.02.C01\t\t\tCk Boğaziçi Elektrik Abone No:2384708464\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788179494922",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "AKEDAŞ PERAKENDE/Abone No: 100000343680",
+    "sablonMetni": "C\t336.01.01.02.A05\t\t\tAkedaş Perakende Abone No:100000343680\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788179553513",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "AKEDAŞ PERAKENDE/Abone No: 100000703478",
+    "sablonMetni": "C\t336.01.01.02.A05\t\t\tAkedaş Perakende Abone No:100000703478\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788179720516",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "HÜSEYİN DEMİRELLİ",
+    "sablonMetni": "C\t120.01.01.01.M55\t\t\tGelen Hüseyin Demirelli\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788179756210",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "TOPKAPI DANIŞMANLIK",
+    "sablonMetni": "C\t320.01.01.01.T131\t\t\tGelen Topkapı Danışmanlık Elektronık\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788259458816",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "İşyeri no:000000002476259",
+    "sablonMetni": "K\t108.Z08\t\t\t2476259 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t50\nB\t102.01.Z001\t\t\t2476259 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788259493271",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "İşyeri no:000000002387349",
+    "sablonMetni": "K\t108.Z01\t\t\t2387349 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t20\nB\t102.01.Z001\t\t\t2387349 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788259811866",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "İşyeri no:000000002470271",
+    "sablonMetni": "K\t108.Z01\t\t\t2470271 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t20\nB\t102.01.Z001\t\t\t2470271 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788259866908",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "İşyeri no:000000001051283",
+    "sablonMetni": "K\t108.Z07\t\t\t1051283 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t46\nB\t102.01.Z001\t\t\t1051283 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261454295",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34NKS176",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261507034",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34GRR773",
+    "sablonMetni": "M\t730.01.01.04.029\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261525018",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34KJ9999",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261540926",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34RD1824",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261573094",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34MSP34",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261589947",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34NTG970",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261670236",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34DCK656",
+    "sablonMetni": "M\t760.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261687079",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34BUS831",
+    "sablonMetni": "M\t730.01.01.04.029\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261701525",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34BOM163",
+    "sablonMetni": "M\t760.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261723568",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34BGG285",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261793792",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34DCK663",
+    "sablonMetni": "M\t760.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261875475",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34NKR445",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261898349",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34GRH426",
+    "sablonMetni": "M\t760.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261931229",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34GIU912",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788261981570",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34LK3000",
+    "sablonMetni": "M\t770.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t10\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788262415778",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "D-MARKET ELEKTRONİK HİZMETLER",
+    "sablonMetni": "C\t320.01.01.01.D67\t\t\tGelen D-Market\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788262453983",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "TEKNOSA İÇ VE DIŞ TİCARET",
+    "sablonMetni": "C\t320.01.01.01.T15\t\t\tGelen Teknosa\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788262492572",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "N11 ELEKTRONİK TİCARET",
+    "sablonMetni": "C\t320.01.01.01.D63\t\t\tGelen N11 Elektronik\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788420913070",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "Düzenli Ödeme Talimatı: 83494071",
+    "sablonMetni": "C\t120.01.01.01.A111\t\t\tKira Ödemesi Acve Mutfak\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788420958738",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "Düzenli Ödeme Talimatı: 83184185",
+    "sablonMetni": "C\t120.01.01.01.E80\t\t\tKira Ödemesi Ener Mutfak\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788420990014",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "Düzenli Ödeme Talimatı: 58368179",
+    "sablonMetni": "C\t120.01.02.01.O01\t\t\tKira Ödemesi {TUTAR} TL Oms U. Tic.\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788421029006",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "Düzenli Ödeme Talimatı: 89329454",
+    "sablonMetni": "C\t120.01.01.01.H44\t\t\tKira Ödemesi Habinar Gıda\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788421116509",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "HANİFİ KATAL/ARNAVUTKÖY MAĞAZA KİRA BEDELİ",
+    "sablonMetni": "C\t336.01.01.01.H07\t\t\tKira Ödemesi Hanifi Katal\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788421161231",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "Düzenli Ödeme Talimatı: 60152488",
+    "sablonMetni": "B\t102.01.Z301\t\t\tKira Ödemesi Fethi özger\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788421189762",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "Düzenli Ödeme Talimatı: 60152854",
+    "sablonMetni": "B\t102.01.Z401\t\t\tKira Ödemesi Hüseyin Özger\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788421270717",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "AYŞE KAB",
+    "sablonMetni": "C\t120.01.01.01.C24\t\t\tGelen Ayşe Kab\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788421330522",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "MÜCAHİT TAHA AYDIÇ",
+    "sablonMetni": "C\t120.01.01.01.M124\t\t\tGelen Mücahit Taha Aydıç\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788506273596",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "OTOMATIK Plaka no: 34HS9726",
+    "sablonMetni": "M\t760.01.01.04.010\t\t\t{PLAKA} Hgs\tB\t\t{TUTAR}\t\nB\t102.01.Z001\t\t\t{PLAKA} Hgs\tA\t\t{TUTAR}\t",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788506740646",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "Tel No: 0006366509",
+    "sablonMetni": "C\t336.01.01.02.T02\t\t\tTURKCELL/Tel No: 0006366509\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788506765120",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "Abone No: 100000668357",
+    "sablonMetni": "C\t336.01.01.02.A05\t\t\tAkedaş Ödeme Abone No: 100000668357\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788951339334",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "TRAFİK CEZASI",
+    "sablonMetni": "G\t770.01.01.05.009\t\t\t{PLAKA} Trafik Cezası\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789021990961",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "Elektrik Abone No: 8322000306",
+    "sablonMetni": "C\t336.01.01.02.C01\t\t\tCk Boğaziçi Elektrik Abone No:8322000306\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789022032916",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "Elektrik Abone No: 9369429701",
+    "sablonMetni": "C\t336.01.01.02.C01\t\t\tCk Boğaziçi Elektrik Abone No:9369429701\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789115073345",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "SUPERONLINE/Abone No: 22309693",
+    "sablonMetni": "C\t336.01.01.02.S01\t\t\tSuperonline Abone: 22309693\t{TUTAR}\n",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789115095995",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "IGDAS TAHS.- Tesisat: 500100375884",
+    "sablonMetni": "C\t336.01.01.02.I52\t\t\tİGDAŞ Tesisat No: 500100375884\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789115275148",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "0795 KK OTOMATİK ÖDEME",
+    "sablonMetni": "B\t309.33\t\t\t0795-Ziraat Kredi Kartı Ödeme\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789371418426",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "IGDAS TAHS.- Tesisat: 500100314778",
+    "sablonMetni": "C\t336.01.01.02.I52\t\t\tİGDAŞ Tesisat No: 500100314778\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789371457059",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "IGDAS TAHS.- Tesisat: 500104382111",
+    "sablonMetni": "C\t336.01.01.02.I52\t\t\tİGDAŞ Tesisat No: 500104382111\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789371478329",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "IGDAS TAHS.- Tesisat: 500300025167",
+    "sablonMetni": "C\t336.01.01.02.I52\t\t\tİGDAŞ Tesisat No: 500300025167\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789371501660",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "IGDAS TAHS.- Tesisat: 500300057523",
+    "sablonMetni": "C\t336.01.01.02.I52\t\t\tİGDAŞ Tesisat No: 500300057523\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789371535201",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "IGDAS TAHS.- Tesisat: 500300057527",
+    "sablonMetni": "C\t336.01.01.02.I52\t\t\tİGDAŞ Tesisat No: 500300057527\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789371730525",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "İski/Abone No: 04567714",
+    "sablonMetni": "C\t336.01.01.02.I53\t\t\tİski Ödeme Abone No: 04567714\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789371745810",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "İski/Abone No: 19355362",
+    "sablonMetni": "C\t336.01.01.02.I53\t\t\tİski Ödeme Abone No: 19355362\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789371756956",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "İski/Abone No: 26936513",
+    "sablonMetni": "C\t336.01.01.02.I53\t\t\tİski Ödeme Abone No: 26936513\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789372155586",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "AKMGAZ/Abone No: 10104314",
+    "sablonMetni": "C\t320.01.01.01.A193\t\t\tAkmgaz Ödeme Abone No: 10104314\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789372167427",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "SEMİH BAŞER",
+    "sablonMetni": "C\t120.01.01.01.S210\t\t\tGelen Semih Başer\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789372512131",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "AKMGAZ/Abone No: 10093834",
+    "sablonMetni": "C\t320.01.01.01.A193\t\t\tAkmgaz Ödeme Abone No: 10093834\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1789375384573",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "HAYRİYE EKİM",
+    "sablonMetni": "C\t120.01.01.01.H40\t\t\tGelen Hayriye Çeyiz\t{TUTAR}",
+    "bankalar": [
+      "Ziraat"
+    ]
+  }
+]
