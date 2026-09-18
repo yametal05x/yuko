@@ -244,7 +244,7 @@
   },
   {
     "id": "rule-1788161644328",
-    "kayitTipi": "Virman",
+    "kayitTipi": "Virman (Mahsup)",
     "direction": "giris",
     "keywords": "MokaUnited",
     "sablonMetni": "K\t108.I10\t\t\tMoka Sanal Pos Ödemesi\tA\t\t{TUTAR}\t\nB\t102.01.I004\t\t\tMoka Sanal Pos Ödemesi\tB\t\t{TUTAR}\t\n",
