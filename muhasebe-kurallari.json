@@ -60,8 +60,191 @@
     ]
   },
   {
-    "id": "rule-1788161644328",
+    "id": "default-hgs-virman-cikis",
     "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "34DCK638",
+    "sablonMetni": "M\t760.01.01.04.010\t\t\t{PLAKA} HGS\tB\t\t{TUTAR}\t\nB\t102.01.H021\t\t\t{PLAKA} HGS\tA\t\t{TUTAR}\t",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "default-cek-provizyon-cikis",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ÇEK PROVİZYON",
+    "sablonMetni": "G\t770.01.01.07.010\t\t\tÇek Provizyon Masrafı\t{TUTAR}",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "default-muhammed-yaman-giris",
+    "kayitTipi": "Gelen Havale",
+    "direction": "giris",
+    "keywords": "MUHAMMED YAMAN",
+    "sablonMetni": "C\t120.01.01.01.M205\t\t\tGelen Muhammed Yaman\t{TUTAR}",
+    "bankalar": [
+      "Halkbank",
+      "İş Bankası",
+      "QNB",
+      "Ziraat"
+    ]
+  },
+  {
+    "id": "rule-1788160423808",
+    "kayitTipi": "Virman",
+    "direction": "giris",
+    "keywords": "HESAPLARIM ARASI TRANSFER",
+    "sablonMetni": "B\t102.01.H022\t\t\tHalkbank Hesaplar Arası Virman\tA\t\t{TUTAR}\t\nB\t102.01.H021\t\t\tHalkbank Hesaplar Arası Virman\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788187009792",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "000000003142904/P POS Satış",
+    "sablonMetni": "K\t108.H07\t\t\t3142904 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t46\nB\t102.01.H022\t\t\t3142904 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788187061310",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "000000002376453/P POS Satış",
+    "sablonMetni": "K\t108.H08\t\t\t2376453 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t50\nB\t102.01.H022\t\t\t2376453 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788187104338",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "000000003092445/P POS Satış",
+    "sablonMetni": "K\t108.H01\t\t\t3092445 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t20\nB\t102.01.H022\t\t\t3092445 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788246473328",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "000000003137435/P POS Satış",
+    "sablonMetni": "K\t108.H01\t\t\t3137435 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t20\nB\t102.01.H022\t\t\t3137435 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788246724956",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "000000001646709/PAU1",
+    "sablonMetni": "G\t770.01.01.07.007\t\t\t1646709 POS Aidat Masrafı\t{TUTAR}\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788246853477",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "000000003092445/PAU1",
+    "sablonMetni": "G\t770.01.01.07.007\t\t\t3092445 POS Aidat Masrafı\t{TUTAR}\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788246873779",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "000000003075504/PAU1",
+    "sablonMetni": "G\t770.01.01.07.007\t\t\t3075504 POS Aidat Masrafı\t{TUTAR}\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788246923902",
+    "kayitTipi": "Gelen Havale",
+    "direction": "cikis",
+    "keywords": "000000003142904/PAU1",
+    "sablonMetni": "G\t770.01.01.07.007\t\t\t3142904 POS Aidat Masrafı\t{TUTAR}",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788246967792",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "000000001997693/PAU1",
+    "sablonMetni": "G\t770.01.01.07.007\t\t\t1997693 POS Aidat Masrafı\t{TUTAR}\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788246985493",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "000000002376453/PAU1",
+    "sablonMetni": "G\t770.01.01.07.007\t\t\t2376453 POS Aidat Masrafı\t{TUTAR}\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788247011690",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "000000003137435/PAU1",
+    "sablonMetni": "G\t770.01.01.07.007\t\t\t3137435 POS Aidat Masrafı\t{TUTAR}\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788414405438",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "GayriNakdi Kredi-Dönem Ucreti",
+    "sablonMetni": "G\t770.01.01.07.004\t\t\tTeminat Mektubu Masrafı\t{TUTAR}\n",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788763397828",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "ÇEK TAKAS MASRAFI",
+    "sablonMetni": "G\t770.01.01.07.010\t\t\tÇek Takas Masrafı\t{TUTAR}",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788763502388",
+    "kayitTipi": "Giden Havale",
+    "direction": "cikis",
+    "keywords": "Gayrinakdi Kredi-Dönem",
+    "sablonMetni": "G\t770.01.01.07.004\t\t\tTeminat Mektubu Masrafı\t{TUTAR}",
+    "bankalar": [
+      "Halkbank"
+    ]
+  },
+  {
+    "id": "rule-1788161644328",
+    "kayitTipi": "Virman",
     "direction": "giris",
     "keywords": "MokaUnited",
     "sablonMetni": "K\t108.I10\t\t\tMoka Sanal Pos Ödemesi\tA\t\t{TUTAR}\t\nB\t102.01.I004\t\t\tMoka Sanal Pos Ödemesi\tB\t\t{TUTAR}\t\n",
@@ -81,7 +264,7 @@
   },
   {
     "id": "rule-1788162138522",
-    "kayitTipi": "Virman (Mahsup)",
+    "kayitTipi": "Virman",
     "direction": "giris",
     "keywords": "SATIŞ TUTARI GÖLBAŞI",
     "sablonMetni": "K\t108.I07\t\t\t693761413 POS Kredi Kartı Virman\tA\t\t{TUTAR}\t\nB\t102.01.I004\t\t\t693761413 POS Kredi Kartı Virman\tB\t\t{TUTAR}\t\n",
@@ -91,7 +274,7 @@
   },
   {
     "id": "rule-1788162201687",
-    "kayitTipi": "Virman (Mahsup)",
+    "kayitTipi": "Virman",
     "direction": "giris",
     "keywords": "1379/0020921 virman",
     "sablonMetni": "B\t102.01.I004\t\t\tİş bankası Hesaplar Arası virman\tB\t\t{TUTAR}\t\nB\t102.01.I002\t\t\tİş bankası Hesaplar Arası virman\tA\t\t{TUTAR}\t\n",
@@ -101,24 +284,12 @@
   },
   {
     "id": "rule-1788162323361",
-    "kayitTipi": "Virman (Mahsup)",
+    "kayitTipi": "Virman",
     "direction": "giris",
     "keywords": "1379/0023939 virman",
     "sablonMetni": "B\t102.01.I004\t\t\tİş bankası Hesaplar Arası virman\tB\t\t{TUTAR}\t\nB\t102.01.I003\t\t\tİş bankası Hesaplar Arası virman\tA\t\t{TUTAR}\t\n",
     "bankalar": [
       "İş Bankası"
-    ]
-  },
-  {
-    "id": "default-muhammed-yaman-giris",
-    "kayitTipi": "Gelen Havale",
-    "direction": "giris",
-    "keywords": "muhammed yaman",
-    "sablonMetni": "C\t120.01.01.01.M205\t\t\tGelen Muhammed Yaman\t{TUTAR}",
-    "bankalar": [
-      "İş Bankası",
-      "QNB",
-      "Ziraat"
     ]
   },
   {
@@ -667,7 +838,7 @@
     ]
   },
   {
-    "id": "default-hgs-virman-cikis",
+    "id": "default-hgs-virman-cikis-2",
     "kayitTipi": "Virman (Mahsup)",
     "direction": "cikis",
     "keywords": "hgs",
@@ -677,7 +848,7 @@
     ]
   },
   {
-    "id": "default-cek-provizyon-cikis",
+    "id": "default-cek-provizyon-cikis-2",
     "kayitTipi": "Giden Havale",
     "direction": "cikis",
     "keywords": "çek provizyon masrafı",
