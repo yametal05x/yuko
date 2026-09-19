@@ -1545,6 +1545,12 @@
       "textColor": "#ffffff",
       "anaRenk": "#0b4e75",
       "copiedColor": "#04dc6d"
+    },
+    "Ziraat": {
+      "gearBg": "#860814",
+      "textColor": "#ffffff",
+      "anaRenk": "#1565c0",
+      "copiedColor": "#00a651"
     }
   }
 }
