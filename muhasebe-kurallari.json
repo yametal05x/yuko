@@ -1546,5 +1546,15 @@
     "bankalar": [
       "Yapı Kredi"
     ]
+  },
+  {
+    "id": "rule-1789825479106",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "giris",
+    "keywords": "1802288037X",
+    "sablonMetni": "K\t108.Y08\t0\t\t1802288037 POS Kredi Kartı Virmanı\tA\t\t{TUTAR}\t50\nB\t102.01.Y001\t1\t\t1802288037 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Yapı Kredi"
+    ]
   }
 ]
