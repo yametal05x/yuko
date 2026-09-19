@@ -1536,5 +1536,15 @@
     "bankalar": [
       "Yapı Kredi"
     ]
+  },
+  {
+    "id": "rule-1789825458379",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "1802288037X",
+    "sablonMetni": "M\t770.01.01.07.007\t0\t\t1802288037 POS Masrafı\tB\t\t{TUTAR}\t50\nB\t102.01.Y001\t1\t\t1802288037 POS Masrafı\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Yapı Kredi"
+    ]
   }
 ]
