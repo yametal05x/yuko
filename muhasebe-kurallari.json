@@ -1476,5 +1476,15 @@
     "bankalar": [
       "Ziraat"
     ]
+  },
+  {
+    "id": "rule-1789824505460",
+    "kayitTipi": "Virman (Mahsup)",
+    "direction": "cikis",
+    "keywords": "1802461667X",
+    "sablonMetni": "M\t770.01.01.07.007\t0\t\t1802461667 POS Masrafı\tB\t\t{TUTAR}\t46\nB\t102.01.Y001\t1\t\t1802461667 POS Masrafı\tA\t\t{TUTAR}\t\n",
+    "bankalar": [
+      "Yapı Kredi"
+    ]
   }
 ]
