@@ -1533,6 +1533,12 @@
       "textColor": "#ffffff",
       "anaRenk": "#f7941e",
       "copiedColor": "#10b981"
+    },
+    "İş Bankası": {
+      "gearBg": "#003da5",
+      "textColor": "#ffffff",
+      "anaRenk": "#003da5",
+      "copiedColor": "#10b981"
     }
   }
 }
