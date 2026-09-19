@@ -1527,6 +1527,12 @@
       "textColor": "#ffffff",
       "anaRenk": "#7c3aed",
       "copiedColor": "#16a34a"
+    },
+    "Halkbank": {
+      "gearBg": "#f7941e",
+      "textColor": "#ffffff",
+      "anaRenk": "#f7941e",
+      "copiedColor": "#10b981"
     }
   }
 }
