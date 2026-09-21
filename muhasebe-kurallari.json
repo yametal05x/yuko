@@ -1519,6 +1519,16 @@
       "bankalar": [
         "Yapı Kredi"
       ]
+    },
+    {
+      "id": "rule-1789972713297",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "AKMGAZ/Abone No: 10107746",
+      "sablonMetni": "C\t320.01.01.01.A193\t\t\tAkmgaz Ödeme Abone No: 10107746\t{TUTAR}",
+      "bankalar": [
+        "Ziraat"
+      ]
     }
   ],
   "temalar": {
