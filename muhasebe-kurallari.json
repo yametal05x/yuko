@@ -1551,6 +1551,12 @@
       "textColor": "#ffffff",
       "anaRenk": "#2a2eb2",
       "copiedColor": "#09d36a"
+    },
+    "Garanti": {
+      "gearBg": "#005028",
+      "textColor": "#ffffff",
+      "anaRenk": "#00857c",
+      "copiedColor": "#be185d"
     }
   }
 }
