@@ -1529,6 +1529,16 @@
       "bankalar": [
         "Ziraat"
       ]
+    },
+    {
+      "id": "rule-1789972738415",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "AKMGAZ/Abone No: 10173050",
+      "sablonMetni": "C\t320.01.01.01.A193\t\t\tAkmgaz Ödeme Abone No: 10173050\t{TUTAR}\n",
+      "bankalar": [
+        "Ziraat"
+      ]
     }
   ],
   "temalar": {
