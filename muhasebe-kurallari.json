@@ -1549,6 +1549,16 @@
       "bankalar": [
         "Ziraat"
       ]
+    },
+    {
+      "id": "rule-1790062192576",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "TURKNET/Abone No: 0002206805",
+      "sablonMetni": "C\t336.01.01.02.T17\t\t\tTURKNET/Abone No: 0002206805\t{TUTAR}",
+      "bankalar": [
+        "Ziraat"
+      ]
     }
   ],
   "temalar": {
