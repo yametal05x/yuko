@@ -1559,6 +1559,16 @@
       "bankalar": [
         "Ziraat"
       ]
+    },
+    {
+      "id": "rule-1790146843807",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "Telekom Online tah/ 2126890605",
+      "sablonMetni": "C\t336.01.01.02.T06\t\t\tTürk Telekom Ödeme 2126890605\t{TUTAR}\n",
+      "bankalar": [
+        "Ziraat"
+      ]
     }
   ],
   "temalar": {
