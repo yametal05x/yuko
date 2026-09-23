@@ -1599,6 +1599,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790170116839",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "3E ISI VE DANIŞMANLIK",
+      "sablonMetni": "C\t320.01.01.01.U55\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
