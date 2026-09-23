@@ -1589,6 +1589,16 @@
       "bankalar": [
         "Ziraat"
       ]
+    },
+    {
+      "id": "rule-1790170095096",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ORHAN ÖCAL",
+      "sablonMetni": "C\t320.01.01.01.O12\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
