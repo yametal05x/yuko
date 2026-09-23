@@ -1609,6 +1609,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790170131935",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "YILMAZ OFİS KIRTASİYE AMBALAJ",
+      "sablonMetni": "C\t320.01.01.01.Y13\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
