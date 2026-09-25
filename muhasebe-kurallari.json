@@ -1659,6 +1659,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790316798969",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ENER MUTFAK GEREÇLERİ",
+      "sablonMetni": "C\t320.01.01.01.E71\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
