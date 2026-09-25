@@ -1639,6 +1639,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790316745479",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "REFİK IRMAK",
+      "sablonMetni": "C\t336.01.01.02.R01\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "İş Bankası"
+      ]
     }
   ],
   "temalar": {
