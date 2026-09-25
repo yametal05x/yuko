@@ -1699,6 +1699,16 @@
       "bankalar": [
         "Garanti"
       ]
+    },
+    {
+      "id": "rule-1790323317302",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "3032-1936752987058677",
+      "sablonMetni": "B\t309.08\t\t\t3032-Garanti Kredi Kartı Ödeme\t{TUTAR}",
+      "bankalar": [
+        "Garanti"
+      ]
     }
   ],
   "temalar": {
