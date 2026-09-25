@@ -1649,6 +1649,16 @@
       "bankalar": [
         "İş Bankası"
       ]
+    },
+    {
+      "id": "rule-1790316765473",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ZEKİ ÖLÇER",
+      "sablonMetni": "C\t320.01.01.01.Z11\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "İş Bankası"
+      ]
     }
   ],
   "temalar": {
