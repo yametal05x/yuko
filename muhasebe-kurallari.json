@@ -1629,6 +1629,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790316732677",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "UCR OTOMOTİV",
+      "sablonMetni": "C\t320.01.01.01.U75\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
