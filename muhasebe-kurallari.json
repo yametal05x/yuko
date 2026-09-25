@@ -1689,6 +1689,16 @@
       "bankalar": [
         "Garanti"
       ]
+    },
+    {
+      "id": "rule-1790323300068",
+      "kayitTipi": "Virman (Mahsup)",
+      "direction": "cikis",
+      "keywords": "3024-1186750997018688",
+      "sablonMetni": "B\t309.07\t\t\t3024-Garanti Kredi Kartı Ödeme\t{TUTAR}\n",
+      "bankalar": [
+        "Garanti"
+      ]
     }
   ],
   "temalar": {
