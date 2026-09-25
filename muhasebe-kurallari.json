@@ -1679,6 +1679,16 @@
       "bankalar": [
         "Ziraat"
       ]
+    },
+    {
+      "id": "rule-1790323088868",
+      "kayitTipi": "Virman (Mahsup)",
+      "direction": "giris",
+      "keywords": "PT1585927 BONUS",
+      "sablonMetni": "K\t108.G01\t0\t\tPT1585927 POS Kredi Kartı Virmanı\tA\t\t{TOPLAM}\t20\nM\t770.01.01.07.007\t0\t\tPT1585927 POS Masrafı\tB\t\t{MASRAF}\t\nB\t102.01.G001\t1\t\tPT1585927 POS Kredi Kartı Virmanı\tB\t\t{TUTAR}",
+      "bankalar": [
+        "Garanti"
+      ]
     }
   ],
   "temalar": {
