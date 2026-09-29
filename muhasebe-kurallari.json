@@ -1729,6 +1729,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790682855380",
+      "kayitTipi": "Gelen Havale",
+      "direction": "giris",
+      "keywords": "KOÇTAŞ YAPI MARKETLERİ",
+      "sablonMetni": "C\t320.01.01.01.K157\t\t\tGelen Koçtaş Yapı\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
