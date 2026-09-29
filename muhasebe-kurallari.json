@@ -1719,6 +1719,16 @@
       "bankalar": [
         "Halkbank"
       ]
+    },
+    {
+      "id": "rule-1790682835180",
+      "kayitTipi": "Gelen Havale",
+      "direction": "cikis",
+      "keywords": "TOPKAPI DANIŞMANLIK",
+      "sablonMetni": "C\t320.01.01.01.T131\t\t\tGelen Topkapı Danışmanlık Elektronık\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
