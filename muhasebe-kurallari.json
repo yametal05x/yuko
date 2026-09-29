@@ -1749,6 +1749,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790682953531",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "DÖĞME GAYRİMENKUL YATIRIM",
+      "sablonMetni": "C\t320.01.01.01.D18\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
