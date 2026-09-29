@@ -1739,6 +1739,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790682935529",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "TERMOKAP PLASTİK ÜRN.",
+      "sablonMetni": "C\t320.01.01.01.T19\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
