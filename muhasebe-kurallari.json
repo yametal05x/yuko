@@ -1779,6 +1779,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790683395806",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ULU ORMAN ÜRN.",
+      "sablonMetni": "C\t320.01.01.01.U17\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
