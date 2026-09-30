@@ -1819,6 +1819,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790750969219",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ARZUM ELEKTRİKLİ EV ALETLERİ",
+      "sablonMetni": "C\t320.01.01.01.A292\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
