@@ -1809,6 +1809,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790750957747",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "VOLKAN HAVALANDIRMA",
+      "sablonMetni": "C\t320.01.01.01.V11\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
