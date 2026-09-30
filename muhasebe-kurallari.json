@@ -1799,6 +1799,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1790750946743",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "DENPA ÇEVRE SAĞLIĞI VE TARIM",
+      "sablonMetni": "C\t320.01.01.01.D95\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
