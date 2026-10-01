@@ -172,7 +172,7 @@
     },
     {
       "id": "rule-1788246923902",
-      "kayitTipi": "Gelen Havale",
+      "kayitTipi": "Giden Havale",
       "direction": "cikis",
       "keywords": "000000003142904/PAU1",
       "sablonMetni": "G\t770.01.01.07.007\t\t\t3142904 POS Aidat Masrafı\t{TUTAR}",
