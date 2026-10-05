@@ -1849,6 +1849,16 @@
       "bankalar": [
         "Garanti"
       ]
+    },
+    {
+      "id": "rule-1791184380664",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "A LABORATUVAR TEST MUAYENE",
+      "sablonMetni": "C\t320.01.01.01.A333\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "İş Bankası"
+      ]
     }
   ],
   "temalar": {
