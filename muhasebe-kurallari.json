@@ -1859,6 +1859,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791184401386",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ZİRVE YEDEK PARÇA OTO.SAN",
+      "sablonMetni": "C\t320.01.01.01.Z20\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
