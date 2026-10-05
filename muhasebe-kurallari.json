@@ -1829,6 +1829,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791183059462",
+      "kayitTipi": "Virman (Mahsup)",
+      "direction": "cikis",
+      "keywords": "5027,TARİHLİ EKSTRE",
+      "sablonMetni": "B\t309.04\t\t\t5027 Garanti Kredi Kartı Ödeme\tB\t\t{TUTAR}\nB\t102.01.G001\t\t\t5027 Garanti Kredi Kartı Ödeme\tA\t\t{TUTAR}\n",
+      "bankalar": [
+        "Garanti"
+      ]
     }
   ],
   "temalar": {
