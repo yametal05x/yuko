@@ -1839,6 +1839,16 @@
       "bankalar": [
         "Garanti"
       ]
+    },
+    {
+      "id": "rule-1791183093879",
+      "kayitTipi": "Virman (Mahsup)",
+      "direction": "cikis",
+      "keywords": "7017,TARİHLİ EKSTRE",
+      "sablonMetni": "Z\tG002\t\t\t7017-Garanti Kredi Kartı Ödeme\tB\t\t{TUTAR}\nB\t102.01.G001\t\t\t7017-Garanti Kredi Kartı Ödeme\tA\t\t{TUTAR}",
+      "bankalar": [
+        "Garanti"
+      ]
     }
   ],
   "temalar": {
