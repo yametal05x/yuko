@@ -1869,6 +1869,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791271106155",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "8012,TARİHLİ EKSTRE",
+      "sablonMetni": "B\t309.06\t\t\t8012-Garanti Kredi Kartı Ödemesi\t{TUTAR}\n",
+      "bankalar": [
+        "Garanti"
+      ]
     }
   ],
   "temalar": {
