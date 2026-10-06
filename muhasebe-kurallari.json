@@ -1879,6 +1879,16 @@
       "bankalar": [
         "Garanti"
       ]
+    },
+    {
+      "id": "rule-1791271125460",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "8020,TARİHLİ EKSTRE",
+      "sablonMetni": "B\t309.15\t\t\t8020-Garanti Kredi Kartı Ödemesi\t{TUTAR}",
+      "bankalar": [
+        "Garanti"
+      ]
     }
   ],
   "temalar": {
