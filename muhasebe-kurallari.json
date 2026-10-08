@@ -255,7 +255,7 @@
       "kayitTipi": "Giden Havale",
       "direction": "cikis",
       "keywords": "GAYRI NAKDI",
-      "sablonMetni": "G\t780.01.01.01.004\t\t\tTeminat Mektubu Masrafı ETMDZ25-352075\t{TUTAR}\n",
+      "sablonMetni": "G\t770.01.01.07.004\t\t\tTeminat Mektubu Masrafı ETMDZ25-352075\t{TUTAR}\n",
       "bankalar": [
         "İş Bankası"
       ]
