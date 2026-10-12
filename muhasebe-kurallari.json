@@ -455,7 +455,7 @@
       "kayitTipi": "Giden Havale",
       "direction": "cikis",
       "keywords": "KÜRESEL ORTAK SAĞLIK",
-      "sablonMetni": "C\t320.01.01.01.K80\t\t\tCari Hesaba\t{TUTAR}",
+      "sablonMetni": "C\t320.01.01.01.K154\t\t\tCari Hesaba\t{TUTAR}",
       "bankalar": [
         "Hepsi"
       ]
