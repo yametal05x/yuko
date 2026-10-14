@@ -2079,6 +2079,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981873597",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "YURTİÇİ KARGO SERVİS",
+      "sablonMetni": "C\t336.01.01.01.Y02\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
