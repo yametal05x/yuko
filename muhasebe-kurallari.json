@@ -2119,6 +2119,16 @@
       "bankalar": [
         "İş Bankası"
       ]
+    },
+    {
+      "id": "rule-1791983387793",
+      "kayitTipi": "Gelen Havale",
+      "direction": "cikis",
+      "keywords": "ABDİ DÜDÜK",
+      "sablonMetni": "C\t120.01.01.01.D25\t\t\tGelen Abdi Düdük\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
