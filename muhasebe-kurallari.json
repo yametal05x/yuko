@@ -1889,6 +1889,16 @@
       "bankalar": [
         "Garanti"
       ]
+    },
+    {
+      "id": "rule-1791981319132",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "MARKASI OK MAKİNA",
+      "sablonMetni": "C\t320.01.01.01.M173\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
