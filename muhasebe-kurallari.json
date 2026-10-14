@@ -1919,6 +1919,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981683771",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "TÜV SÜD TEKNİK GÜVENLİK",
+      "sablonMetni": "C\t320.01.01.01.T26\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
