@@ -2009,6 +2009,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981791156",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "AYTAÇ ULUSLARARASI ÇİÇEKÇİLİK",
+      "sablonMetni": "C\t320.01.01.01.A50\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
