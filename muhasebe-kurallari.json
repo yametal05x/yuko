@@ -1999,6 +1999,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981778901",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "PAKET TAŞIMACILIK SİSTEMLERİ",
+      "sablonMetni": "C\t336.01.01.01.P01\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
