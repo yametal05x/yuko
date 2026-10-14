@@ -1949,6 +1949,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981719517",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "MERKEZ SERVİS HİZMETLERİ",
+      "sablonMetni": "C\t320.01.01.01.M67\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
