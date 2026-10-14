@@ -1969,6 +1969,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981746216",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ÇAVUŞOĞLU ELİT METAL",
+      "sablonMetni": "C\t320.01.01.01.C120\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
