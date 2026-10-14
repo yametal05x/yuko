@@ -1959,6 +1959,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981734223",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "NERGİS PASTACI",
+      "sablonMetni": "C\t320.01.01.01.N63\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
