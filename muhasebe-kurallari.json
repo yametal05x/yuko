@@ -2049,6 +2049,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981841069",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "BÜYÜKÇEKMECE SAĞLIK VE EĞİTİM",
+      "sablonMetni": "C\t320.01.01.01.B26\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
