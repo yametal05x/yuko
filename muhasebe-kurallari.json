@@ -2029,6 +2029,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981817759",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "TURGAY FAZLI",
+      "sablonMetni": "C\t320.01.01.01.T76\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
