@@ -1929,6 +1929,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981695568",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "MUSTAFA BONCUK",
+      "sablonMetni": "C\t320.01.01.01.M201\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "İş Bankası"
+      ]
     }
   ],
   "temalar": {
