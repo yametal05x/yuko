@@ -2039,6 +2039,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981830187",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "İNTERMAK TEKNOLOJİ",
+      "sablonMetni": "C\t320.01.01.01.I126\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
