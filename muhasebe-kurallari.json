@@ -2069,6 +2069,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981861942",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "SENTEZ OTOMASYON YAZILIM",
+      "sablonMetni": "C\t320.01.01.01.S148\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
