@@ -1909,6 +1909,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981670465",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "FURKAN ÇAKMAK",
+      "sablonMetni": "C\t320.01.01.01.O115\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
