@@ -1979,6 +1979,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981756386",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ÖZMODEL ÇEVRE DAN",
+      "sablonMetni": "C\t336.01.01.01.Ö01\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
