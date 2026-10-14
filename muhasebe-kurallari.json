@@ -2089,6 +2089,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981884397",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "İBRAHİM AKYOL",
+      "sablonMetni": "C\t320.01.01.01.I17\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
