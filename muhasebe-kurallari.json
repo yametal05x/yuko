@@ -2109,6 +2109,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791982114208",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "EFT Ücret",
+      "sablonMetni": "G\t770.01.01.04.014\t\t\tEFT Masrafı\t{TUTAR}\t\t10\n",
+      "bankalar": [
+        "İş Bankası"
+      ]
     }
   ],
   "temalar": {
