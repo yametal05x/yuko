@@ -1939,6 +1939,16 @@
       "bankalar": [
         "İş Bankası"
       ]
+    },
+    {
+      "id": "rule-1791981707350",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ALİ SEYMEN",
+      "sablonMetni": "C\t320.01.01.01.S71\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
