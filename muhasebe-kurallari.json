@@ -2115,7 +2115,7 @@
       "kayitTipi": "Giden Havale",
       "direction": "cikis",
       "keywords": "EFT Ücret",
-      "sablonMetni": "G\t770.01.01.04.014\t\t\tEFT Masrafı\t{TUTAR}\t10\n\n",
+      "sablonMetni": "G\t770.01.01.04.014\t\t10\tEFT Masrafı\t{TUTAR}\n\n\n",
       "bankalar": [
         "İş Bankası"
       ]
