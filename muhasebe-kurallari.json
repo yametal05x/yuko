@@ -2059,6 +2059,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981852290",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "İHLAS GAZETECİLİK A.Ş",
+      "sablonMetni": "C\t320.01.01.01.I111\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
