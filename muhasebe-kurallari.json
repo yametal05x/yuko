@@ -2099,6 +2099,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981894042",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "FETİH ALÜMİNYUM SAN",
+      "sablonMetni": "C\t320.01.01.01.F26\t\t\t{TUTAR} TL\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
