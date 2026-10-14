@@ -1989,6 +1989,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981766646",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "AHMETAL MAKİNE",
+      "sablonMetni": "C\t320.01.01.01.A192\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
