@@ -2019,6 +2019,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1791981803396",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ERKUR MAKİNE İMAL",
+      "sablonMetni": "C\t320.01.01.01.E33\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
