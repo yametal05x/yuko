@@ -2159,6 +2159,16 @@
       "bankalar": [
         "Ziraat"
       ]
+    },
+    {
+      "id": "rule-1792395769734",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "HAKAN UYAN",
+      "sablonMetni": "C\t320.01.01.01.H112\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
