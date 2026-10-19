@@ -2169,6 +2169,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1792395782352",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "KEMAL KAĞAN ÇİMEN",
+      "sablonMetni": "C\t320.01.01.01.K167\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
