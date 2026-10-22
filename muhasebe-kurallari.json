@@ -2189,6 +2189,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1792657836891",
+      "kayitTipi": "Gelen Havale",
+      "direction": "giris",
+      "keywords": "ÖZCAN PİLİÇ",
+      "sablonMetni": "C\t120.01.01.01.O123\t\t\tGelen Özcan Piliç\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
