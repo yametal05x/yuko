@@ -1252,7 +1252,7 @@
     },
     {
       "id": "rule-1788506765120",
-      "kayitTipi": "Virman (Mahsup)",
+      "kayitTipi": "Giden Havale",
       "direction": "cikis",
       "keywords": "Abone No: 100000668357",
       "sablonMetni": "C\t336.01.01.02.A05\t\t\tAkedaş Ödeme Abone No: 100000668357\t{TUTAR}\n",
