@@ -2259,6 +2259,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794465391360",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "HASDEM METAL",
+      "sablonMetni": "C\t320.01.01.01.H100\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
