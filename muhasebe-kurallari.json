@@ -2199,6 +2199,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794465305080",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ZAFER YIRTICI",
+      "sablonMetni": "C\t320.01.01.01.Z12\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
