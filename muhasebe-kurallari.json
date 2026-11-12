@@ -2219,6 +2219,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794465333618",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "REAL SİGORTA ARACILIK HİZMETLERİ",
+      "sablonMetni": "C\t320.01.01.01.R05\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
