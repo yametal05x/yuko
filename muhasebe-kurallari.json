@@ -2249,6 +2249,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794465376127",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "İSTANBUL REİSİN OTELCİLİK",
+      "sablonMetni": "C\t336.01.01.02.I63\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
