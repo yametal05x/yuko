@@ -2239,6 +2239,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794465363002",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "REFORM ANALİZ",
+      "sablonMetni": "C\t320.01.01.01.R24\t\t\tCari Hesaba\t{TUTAR}",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
