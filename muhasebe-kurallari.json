@@ -2229,6 +2229,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794465347237",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "SİNAN BAĞDATLI",
+      "sablonMetni": "C\t320.01.01.01.M47\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
