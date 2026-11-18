@@ -2369,6 +2369,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985212960",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "BERA MODA TEKSTİL",
+      "sablonMetni": "C\t320.01.01.01.B95\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
