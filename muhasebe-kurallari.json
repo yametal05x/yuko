@@ -2409,6 +2409,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794986383871",
+      "kayitTipi": "Virman (Mahsup)",
+      "direction": "cikis",
+      "keywords": "Abone No: 100000042640",
+      "sablonMetni": "C\t336.01.01.02.A05\t\t\tAkedaş Perakende Abone No: 100000042640\t{TUTAR}\n",
+      "bankalar": [
+        "Ziraat"
+      ]
     }
   ],
   "temalar": {
