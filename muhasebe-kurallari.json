@@ -2289,6 +2289,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985067256",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "AYDINOTO OTO SERVİS YEDEK PARÇA",
+      "sablonMetni": "C\t320.01.01.01.A43\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
