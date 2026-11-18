@@ -2399,6 +2399,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985998208",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "BAKİ ORMAN ÜRÜNLERİ",
+      "sablonMetni": "C\t320.01.01.01.B138\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
