@@ -2304,7 +2304,7 @@
       "id": "rule-1794985079586",
       "kayitTipi": "Giden Havale",
       "direction": "cikis",
-      "keywords": "23S EV ÇÖZÜMLERİ MAKİNA SANAYİ",
+      "keywords": "23S EV ÇÖZÜMLERİ MAK",
       "sablonMetni": "C\t320.01.01.01.S199\t\t\tCari Hesaba\t{TUTAR}\n",
       "bankalar": [
         "Hepsi"
