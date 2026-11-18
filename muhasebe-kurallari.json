@@ -2359,6 +2359,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985200615",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "MUBO TURİZM TİCARET",
+      "sablonMetni": "C\t320.01.01.01.M60\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
