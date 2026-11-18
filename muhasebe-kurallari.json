@@ -2379,6 +2379,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985225177",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "IŞIK BAKIR SANAYİ VE TİCARET",
+      "sablonMetni": "C\t320.01.01.01.I04\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
