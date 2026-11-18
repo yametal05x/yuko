@@ -2269,6 +2269,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985042799",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "EİMZATR BİLGİ GÜVENLİGİ HİZMETLERİ",
+      "sablonMetni": "C\t320.01.01.01.E117\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
