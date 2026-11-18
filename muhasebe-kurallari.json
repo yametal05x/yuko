@@ -2329,6 +2329,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985167186",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "POLİTAN POLİÜRETAN SANAYİ",
+      "sablonMetni": "C\t320.01.01.01.P12\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
