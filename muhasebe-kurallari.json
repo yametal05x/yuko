@@ -2393,8 +2393,8 @@
     {
       "id": "rule-1794985530687",
       "kayitTipi": "Gelen Havale",
-      "direction": "cikis",
-      "keywords": "C\t120.01.02.01.Y05\t\t\tGelen Yamakoğlu İnşaat\t1.500.000,00",
+      "direction": "giris",
+      "keywords": "YAMAKOĞLU İNŞAAT",
       "sablonMetni": "C\t120.01.02.01.Y05\t\t\tGelen Yamakoğlu İnşaat\t{TUTAR}\n",
       "bankalar": [
         "Hepsi"
