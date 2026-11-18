@@ -2349,6 +2349,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985190065",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "TACİROĞLU LOJİSTİK SANAYİ",
+      "sablonMetni": "C\t320.01.01.01.T120\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
