@@ -2419,6 +2419,16 @@
       "bankalar": [
         "Ziraat"
       ]
+    },
+    {
+      "id": "rule-1794986561914",
+      "kayitTipi": "Gelen Havale",
+      "direction": "giris",
+      "keywords": "BURÇA BAKLAVA",
+      "sablonMetni": "C\t320.01.01.01.B111\t\t\tGelen Burça Baklava\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
