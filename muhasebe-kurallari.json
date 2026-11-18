@@ -2309,6 +2309,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985090439",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "FATİH ARSLAN",
+      "sablonMetni": "C\t320.01.01.01.F52\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
