@@ -2279,6 +2279,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985056284",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "DÜNYA KONVEYÖR KAYIŞ VE BANT",
+      "sablonMetni": "C\t320.01.01.01.D92\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
