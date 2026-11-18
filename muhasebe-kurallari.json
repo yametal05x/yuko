@@ -2339,6 +2339,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1794985178129",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "BÜLENT SAĞBİLGE",
+      "sablonMetni": "C\t320.01.01.01.B151\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
