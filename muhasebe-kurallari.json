@@ -2449,6 +2449,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1795069826473",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "İSKENDERLER ALÜMİNYUM",
+      "sablonMetni": "C\t320.01.01.01.I63\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
