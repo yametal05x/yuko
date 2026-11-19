@@ -2459,6 +2459,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1795069837625",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "BEGÜM GERİ DÖNÜŞÜM",
+      "sablonMetni": "C\t320.01.01.01.B132\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
