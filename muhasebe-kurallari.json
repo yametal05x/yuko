@@ -2429,6 +2429,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1795069805431",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "Essan Alüminyum",
+      "sablonMetni": "C\t320.01.01.01.E172\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
