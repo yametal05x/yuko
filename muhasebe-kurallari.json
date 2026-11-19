@@ -2469,6 +2469,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1795069876544",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "NORMTEST DANIŞMANLIK",
+      "sablonMetni": "C\t320.01.01.01.N71\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
