@@ -2439,6 +2439,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1795069816746",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "Maraş Metal San",
+      "sablonMetni": "C\t320.01.01.01.M166\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
