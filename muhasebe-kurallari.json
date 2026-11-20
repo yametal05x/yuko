@@ -2509,6 +2509,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1795158482812",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "HALİL KÜÇÜK",
+      "sablonMetni": "C\t336.01.01.01.N434\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
