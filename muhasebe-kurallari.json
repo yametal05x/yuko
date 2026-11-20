@@ -2489,6 +2489,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1795158462556",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "ÜÇKARDEŞLER LOJİSTİK",
+      "sablonMetni": "C\t320.01.01.01.U28\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
