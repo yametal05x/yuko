@@ -2479,6 +2479,16 @@
       "bankalar": [
         "Hepsi"
       ]
+    },
+    {
+      "id": "rule-1795158450813",
+      "kayitTipi": "Giden Havale",
+      "direction": "cikis",
+      "keywords": "MUSTAFA GÖKSU",
+      "sablonMetni": "C\t320.01.01.01.M196\t\t\tCari Hesaba\t{TUTAR}\n",
+      "bankalar": [
+        "Hepsi"
+      ]
     }
   ],
   "temalar": {
