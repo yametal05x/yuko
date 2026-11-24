@@ -212,7 +212,7 @@
     },
     {
       "id": "rule-1788414405438",
-      "kayitTipi": "Virman (Mahsup)",
+      "kayitTipi": "Giden Havale",
       "direction": "cikis",
       "keywords": "GayriNakdi Kredi-Dönem Ucreti",
       "sablonMetni": "G\t770.01.01.07.004\t\t\tTeminat Mektubu Masrafı\t{TUTAR}\n",
